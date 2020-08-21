@@ -1,0 +1,30 @@
+# Summary
+
+* [About](README.md)
+* [Introduction](introduction.md)
+* [General Resources](resources.md)
+  * [Collaboration tools](collaboration-tools.md)
+  * [Concept development](concept-development.md)
+  * [Design process and methods](design-process-and-methods.md)
+  * [Documentation resources](documentation-resources.md)
+  * [Digital Design Project Types](digital-design-project-types.md)
+* [Projects](projects.md)
+  * [Project 1: Group Design Project](project-1.md)
+    * [Weekly activity reports](project-1/weekly-activity-reports.md)
+    * [Phase 1: Gather and organize](project-1/phase-1-gather-and-organize.md)
+    * [Phase 2: Develop a design sprint](project-1/phase-2-develop-a-design-sprint.md)
+    * [Phase 3: Pitch](project-1/phase-3-pitch.md)
+    * [Phase 4: Sprint!](project-1/phase-4-design-sprint.md)
+    * [Phase 5: Document](project-1/phase-5.md)
+  * [Project 2: Independent Design Project](individual-design-project.md)
+    * [Concept Pitch](design-project-2/project-2-concept-pitch.md)
+    * [Work Statement](design-project-2/project-2-work-statement.md)
+    * [Production Reports](design-project-2/project-2-production-reports.md)
+    * [Documentation](design-project-2/project-2-documentation.md)
+    * [Files](design-project-2/project-2-files.md)
+  * [Writing Project](writing-project.md)
+* [Project Categories and Resources](project-categories.md)
+* [License](license.md)
+
+
+
