@@ -50,5 +50,5 @@ Please use MS Word for this project.
 
 ## Example of Student Work
 
-View a [sample essay \(pdf\)](assets/sample-work-statement.pdf) from a previous student.
+View a [sample essay \(pdf\)](https://dmd-program.github.io/dmd-300-master/assets/sample-essay.pdf) from a previous student.
 
