@@ -46,7 +46,7 @@ The Work Statement is specifically about this project, but artist statements are
 * [Artist Statements We Love](https://www.theartleague.org/blog/2015/08/24/8-artist-statements-we-love/)
 
 ## Example of Student Work
-View a [sample work statement \(pdf\)](assets/sample-work-statement.pdf) from a previous student.
+View a [sample work statement \(pdf\)](https://dmd-program.github.io/dmd-300-master/assets/sample-work-statment.pdf) from a previous student.
 
 ## Submission details:
 
