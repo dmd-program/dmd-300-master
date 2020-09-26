@@ -15,8 +15,5 @@ The following are some recommended items to consider for meeting agendas. Ultima
 7. Decide whether to assign team member roles. If roles are desired, what are they and who are they assigned to?
 8. Determine clear project outcomes and goals.
 
-Here are some guides for working with small Teams:
-[Collaborative Design Teams](https://www.linkedin.com/learning/collaborative-design-process-and-efficiency/about-the-series?u=76811570?org=psu.edu)
-
 
 
