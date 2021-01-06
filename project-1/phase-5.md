@@ -1,5 +1,7 @@
 # Phase 5: Project document
 
+Each team should produce a single Project Document.
+
 ## Requirements
 
 1. **Cover/title page:** 
@@ -19,7 +21,7 @@
    * Timeline of events
    * List methods used with brief descriptions
    * Anticipated outcomes of each step and how they contributed to the project's development.
-5. **Final Product **
+5. **Final Product**
    * Depending on the nature of your project, this could be:
      * Images of your final product or design
      * Link to video, website, etc. 

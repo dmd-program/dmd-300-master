@@ -6,6 +6,7 @@ A concept is a core idea \(or set of ideas\) that signify basic values, motivati
 
 * "Top-down" approach
 * Process of deduction
+* Theory » Hypothesis » Observation » Confirmation
 
 Concepts are directed through a mapping process either before or in the beginning stages of a project. An interpretation of outcomes of an inquiry will depend in part on the frame of reference of existing knowledge. What is known helps identify what is not. Situating is a method that opens up lines of inquiry commonly used to review literature and information sources in the public domain. Situating is a curatorial process for looking at existing things in new ways.
 
@@ -13,6 +14,7 @@ Concepts are directed through a mapping process either before or in the beginnin
 
 * "Bottom-up" approach
 * Process of induction
+* Observations » Pattern » Hypothesis » Theory
 
 Concepts emerge over the course of the project through an ongoing discovery process. A core purpose of inquiry is to discover new knowledge or the possibility of thinking about things in new, innovative ways. To reveal something relies on others experiencing a change of awareness or understanding. Revealing, therefore is not only a method of discovery, but requires multiple ways of communicating to target groups and others.
 

@@ -8,7 +8,7 @@ Avoid basing your proejct around existing intellectual properties \(movies, comi
 
 Please read through [project categories](/project-categories.md) to learn more about the types of projects possible to produce and their production needs. While the media and form of your project is up to you, the following focus word should be used as a jumping off point for your project's concept.
 
-### **The project's concept focus word is:** **"Inclusive"**
+### The conceptual focus word for this project is:"Inclusive"
 
 > Inclusive Design is a methodology, born out of digital environments, that enables and draws on the full range of human diversity. Most importantly, this means including and learning from people with a range of perspectives.
 
@@ -18,9 +18,9 @@ Please read through [project categories](/project-categories.md) to learn more a
 
 — Kat Holmes for [FastCompany](https://www.fastcompany.com/90243282/the-no-1-thing-youre-getting-wrong-about-inclusive-design)
 
-"Inclusive design" is a specific methedology that is related to accessability \(an attribute of any design\) and [univeral design ](http://universaldesign.ie/What-is-Universal-Design/)\(one-size-fits all\); the FastCompany artilce above addresses the differences between these terms.
+"Inclusive design" is a specific methodology related to accessability \(an attribute of any design\) and [univeral design ](http://universaldesign.ie/What-is-Universal-Design/)\(one-size-fits all\); the FastCompany article above addresses the differences between these terms. 
 
-**For this project, you can interpret the theme of "inclusive" however you see fit. **You don't have to follow existing guidelines for inclusive design, but may wish to read about them. Think about unique perspectives, diverse audiences, and edge cases. Products like the [Swiss Army Knife](https://gearjunkie.com/swiss-army-knife-history) and the [OXO Good Grips peele](https://americanhistory.si.edu/collections/search/object/nmah_1417719)r were developed for specific users, but prooved desireable for larger audiences.
+**For this project, you can interpret the theme of "inclusive" however you see fit.** You don't have to follow existing guidelines for inclusive design, but may wish to read about them. Think about unique perspectives, diverse audiences, and edge cases. Products like the [Swiss Army Knife](https://gearjunkie.com/swiss-army-knife-history) and the [OXO Good Grips peeler](https://americanhistory.si.edu/collections/search/object/nmah_1417719) were developed for specific users, but proved desireable for larger audiences.
 
 **Further Inspiration:**
 
@@ -32,32 +32,22 @@ Please read through [project categories](/project-categories.md) to learn more a
 * [Microsoft Inclusive Design toolkit](https://www.microsoft.com/design/inclusive/)
 * [Design is diversity ](https://uxdesign.cc/design-is-diversity-its-time-to-talk-about-our-role-as-designers-323781b10b6f)by Fabricio Teixeira \(and related articles at UX Collective\)
 * [The Moral Responsibility of Cinema: The Politics of Representation and Expectation](https://thepolitic.org/the-moral-responsibility-of-cinema-the-politics-of-representation-and-expectation/) by Tat Wei Lee 
+* [Design for All](https://corporate.target.com/article/2020/05/design-for-all-film) documentary film by Target; poorly named because it's about inclusive design for _specific_ needs more than universal design. Watch the trailer or check out the film on Hulu.
+*[Gender-neutral design system by TurboTax](https://medium.com/intuit-engineering/turbotax-lives-approach-to-a-gender-neutral-design-system-bed0c45ece44) described in a great blog post.
 
 ## Project overview
 
-The project will consist of five phases:
+**The project will consist of five phases:**
 
-* Phase 1: Gather and organize
-* Phase 2: Develop a design sprint
-* Phase 3: Pitch
-* Phase 4: Sprint!
-* Phase 5: Document
-
-### Research starting points:
-
-**Related to concept focus word:**
-
-* [NPR TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/483080945/nudge)
-* [Freakonomics Podcast: Big Returns From Small Thinking](http://freakonomics.com/podcast/big-returns-thinking-small/)
-* [PSU Library resources](https://psu.summon.serialssolutions.com/search?s.fvf=SourceType%2CLibrary+Catalog%2Cf&s.q=nudge+unit&s.l=en#!/search?ho=t&fvf=SourceType,Library Catalog,f&l=en&q=design nudge)
-
-**Global issues:**
-
-* [World Economic Forum: Global Shapers Survey 2017](http://shaperssurvey2017.org/static/data/WEF_GSC_Annual_Survey_2017.pdf)
+* Phase 1: Gather and organize \(one week\)
+* Phase 2: Develop a design sprint \(one week\)
+* Phase 3: Pitch \(one week\)
+* Phase 4: Sprint! \(three weeks\)
+* Phase 5: Document \(concludes the Sprint\)
 
 ## Objectives
 
-**The purpose of this project is to help you: **
+**The purpose of this project is to help you:**
 
 * Gain experience working in a design team
 * Practice developing a design process
@@ -66,13 +56,13 @@ The project will consist of five phases:
 * Produce a detailed project document
 * Practice publishing skills by keeping a [team project blog](http://sites.psu.edu/)
 
-## Team conflict
+## Team Dynamics
 
-Though working on a design team as part of a class project can not fully mimic real-world project teams you will encounter or already have encountered, it should suffice for helping you understand the general concepts and ideas. Finding a team that meshes immediately and is good at resolving internal conflict makes for a very productive and gratifying project experience. Unfortunately, when this doesn't happen, team dynamics can be counterproductive. If you run into any issues with your team members that cannot be resolved, please communicate with them with your instructor so they may step in and help mediate the situation.
+Though working on a design team as part of a class project can not fully mimic real-world project teams you will encounter or already have encountered, it should suffice for helping you understand the general tactics and etiquette. Finding a team that meshes immediately and is good at resolving internal conflict makes for a very productive and gratifying project experience. Unfortunately, when this doesn't happen, team dynamics can be counterproductive. If you run into any issues with your team members that cannot be resolved, please communicate with them with your instructor so they may step in and help mediate the situation.
 
 ## Rubric
 
-**This final project is graded as a team.** All members will receive the same grade.
+**This final project is graded as a team.** All members will receive the same grade for the final deliverable. Each person's weekly activity reports are graded individually.
 
 All project deliverables must be met for the project to be graded. A non-submission or non-completion for any project phase is considered an incomplete project.
 

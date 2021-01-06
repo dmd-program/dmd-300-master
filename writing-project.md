@@ -12,7 +12,7 @@ The following are not required 'sections,' rather they are suggested prompts to 
 4. What was their path to get to where they are?  
 5. Distill their ideas and achievements into main points and then relate those points to your own work, interests, learning path, and/or future plans.
 
-**Organzie your thoughts into a cohesive essay,** including an introduction, conclusion, and paragrpahs devoted to discrete topics. Build your essay around a main idea or opinion of the work in question. Don't just summerize! Reveal your own point of view and connections by offering a new take on the material.
+**Organize your thoughts into a cohesive essay,** including an introduction, conclusion, and paragraphs devoted to discrete topics. Build your essay around a main idea or opinion of the work in question. Don't just summarize! Reveal your own point of view and connections by offering a new take on the material.
 
 **For each creator that you discuss, include a description of one or more work**. Your description should familiarize the reader with the appearance, subject matter, distribution or exhibition context, and visual design choices made by the artist or designer. Use descriptive adjectives to articulate the precise aesthetic style or mood of the work.
 
@@ -35,14 +35,14 @@ Please use MS Word for this project.
 
 ## Resources
 
-* [Penn State Library](https://libraries.psu.edu/): Filter by resources avaialble online. Search for a medium, subject, or keyword and start browsing! There are lots great books that collect works of a particular theme or media. Look for contemporary or historical examples. 
+* [Penn State Library](https://libraries.psu.edu/): Filter by resources avaialable online. Search for a medium, subject, or keyword and start browsing! There are lots great books that collect works of a particular theme or media. Look for contemporary or historical examples. 
 * [Fast Company](https://www.fastcompany.com/co-design): An essential design publication; features mainstream design and weird creative stuff. 
 * [We Make Money Not Art](https://we-make-money-not-art.com/): A quirky blog of new media art; search for keywords to browse years of material.
 * [Dribble](https://dribbble.com/): A social media platform for designers \(mostly UI and graphic design\)
 * [Creative Bloqq](https://www.creativebloq.com/): A very pop-y blog of creative tech stuff.
 * [Surface Magazine](https://www.surfacemag.com/): A high-brow publication on "architecture, art, design, fashion, and travel."
-* [99% Invisible](https://99percentinvisible.org/): Every deisgner's favorite podcast; browse years of stories on design of all kinds. 
-* [Abstract](https://www.netflix.com/title/80057883): The Art of Design: A Netflix series about innovative desingers. 
+* [99% Invisible](https://99percentinvisible.org/): Every designer's favorite podcast; browse years of stories on design of all kinds. 
+* [Abstract](https://www.netflix.com/title/80057883): The Art of Design: A Netflix series about innovative designers. 
 * [Art21](https://art21.org/): A great video series on artists of all kinds.
 * [TED Talks](https://www.ted.com/talks): You know what they are; search for designers, artists, and practioners. 
 * [Smashing Magazine's list of uncommon inspiration sources](https://www.smashingmagazine.com/2010/02/finding-inspiration-in-uncommon-sources-12-places-to-look/): links to various publications and IRL design examples like architecture and package design.

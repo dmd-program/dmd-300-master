@@ -10,12 +10,14 @@ There is a huge array of design thinking methods, design sprint frameworks, and 
   - [Sprint Playlist](https://www.youtube.com/watch?v=Fc6A2WuEkZI&list=PLQjb7PbWSDVZv_CEfvpK6UzC0vJhBGgGg)
 - Dan Nessler
   - [How to apply a design thinking, HCD, UX or any creative process from scratch](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812)
-- [Stanford D.School Bootcamp Bootleg](https://dschool.stanford.edu/resources/the-bootcamp-bootleg)
+- [Stanford D.School: Design Thinking Bootleg](https://dschool.stanford.edu/resources/design-thinking-bootleg)
 - [Circular Design Methods](https://www.circulardesignguide.com/methods)
-- Lynda.com design sprint and methods courses
-  - [Agile Project Management Principles ](https://www.lynda.com/Business-Project-Management-tutorials/Agile-Project-Management/122428-2.html?org=psu.edu)
-  - [UX Research Methods for Agile](https://www.lynda.com/User-Experience-tutorials/UX-Research-Agile-Teams/667388-2.html?org=psu.edu)
-  - [UX Foundations: Research](https://www.lynda.com/User-Experience-tutorials/UX-Research-Fundamentals/439418-2.html?org=psu.edu)
+- [Double Diamond method](https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond) \( a.k.a. the Design Council's Framework for Innovation\)]
+- [Three Triangle method](https://uxdesign.cc/beyond-the-double-diamond-thinking-about-a-better-design-process-model-de4fdb902cf) \(inspired by Double Diamond\)
+- LinkedIn Courses on Research and Project Management
+  - [Project Management Simplified ](https://www.linkedin.com/learning/project-management-simplified-2/introduction-to-the-12-step-process?u=76811570)
+  - [UX Research Methods for Agile](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76811570)
+  - [UX Foundations: Research](https://www.linkedin.com/learning/ux-foundations-research/welcome?u=76811570)
 
 ## Useful books:
 

@@ -8,10 +8,10 @@
    1. Video conferencing
       * Zoom \([psu.zoom.us](https://psu.zoom.us)\)
       * Skype
-      * Google Hangouts
+      * Google Hangouts / Meet 
    2. Team management and tasks
       * Canvas group's page
-      * team discussions, announcements, conferences, files, etc.
+      * Team discussions, announcements, conferences, files, etc.
       * Slack \([dmd-program.slack.com](http://dmd-program.slack.com)\)
       * [Trello](https://trello.com)
       * [Waffle.io](https://waffle.io) and Github.com
@@ -26,6 +26,13 @@
    3. [Gitbook.com](https://www.gitbook.com) and Github.com
       * Developer centric writing and collaboration.
       * Can write in markdown and publish to HTML very easily.
+4. **Collaborative Design Tools**
+   * [InVision](https://www.invisionapp.com/) collaborative image "Boards" and "Freehand" whiteboards.
+   * [Google Slides]
+      * Simple way to share images and comments.
+   * [Figma](https://www.figma.com/)
+      * Paid design app for UI design, featuring online collaborative projects.
+
 
 
 

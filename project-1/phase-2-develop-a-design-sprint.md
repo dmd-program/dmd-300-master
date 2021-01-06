@@ -8,20 +8,36 @@ For Phase 2 of this project, each group will develop a preliminary design sprint
 
 The sprint document should include:
 
-1. **Cover/title page** 
+### Cover/title page
+
    * **Title:** Design Sprint Schedule
    * Date
    * Team member names
    * Course name
    * Instructor\(s\)
-2. **Schedule:** Consult the [design process and methods page](/design-process-and-methods.md) to choose design and research methods that fit your team's needs and interests. Place the chosen methods onto a schedule that plots a course to the final project due date. Name the method and describe what occurs in each session with the anticipated outcomes.
+
+ ### Schedule:
+
+  Consult the [design process and methods page](/design-process-and-methods.md) to choose design and research methods that fit your team's needs and interests. Place the chosen methods onto a schedule that plots a course to the final project due date. Name the method and describe what occurs in each session \(what you're doing\) with the anticipated outcomes \(why you're doing it\).
    * **Session:** Day, time, duration of session
+      * A.k.a. phase, stage, week...
+      * Be sure to include specific dates and budget your time wisely! Avoid doing everything in the last possible week.
    * **Method name:** Include one or more methods for each category in the following list. You may repeat categories and methods as often as needed, and they do not all need to be collaborative or group based:
      * Research, discovery
      * Ideation, concept development
      * Production, testing, iteration
      * Analysis, feedback
    * **Description:** Briefly describe how the method works and the anticipated outcomes from using the method. You may include specific tools you plan to use or specific group members who will complete a task.
+
+   **Example Schedule:**
+
+| Session 1                                                                          |   Deliver                                                         | Session 2                | Etc... |   |
+|------------------------------------------------------------------------------------|------------------------------------------------------------|--------------------------|------|---|
+| Date 1 – Date 2                                                                    | Date Y                                                     | Date 2 – Date 3          | Etc... |   |
+| Discovery                                                                          | Deliver Pitch                                              |  Production       | Etc... |   |
+| Research existing products in field and brainstorm solutions to project challenge. | Articulate specific goals and sketch out vision of project | Develop rough prototypes | Etc... |   |
+
+---
 
 ## Project Blog
 
@@ -30,9 +46,11 @@ The project blog should be hosted using [Sites at Penn State](http://sites.psu.e
 * [You can add multiple users](https://www.wpbeginner.com/beginners-guide/how-to-add-new-users-and-authors-to-your-wordpress-blog/) to a blog so everyone can edit and create posts. 
 * If any project team members are concerned about privacy, project members may use a pseudonym \(pen name\) and in addition, the blog is able to be password protected to Penn State WebAccess users. Please contact your instructor if this is a concern and need help with blog configuration.
 
+Your first post can introduce the team members or project topic. You may have some preliminary ideas to share, but it's okay if your project idea is still undefined — it won't be until the Pitch in Phase 3!
+
 ## Submission details:
 
-1. Publish a link to the project blog, even if currently blank, on the classwide Canvas discussion.
+1. Publish a link to the project blog on the classwide Canvas discussion.
 2. Upload a .zip file to the Phase 2 Canvas assignment that includes:
    * Link to the blog in the assignment submission
    * Design Sprint Schedule document in PDF format.
