@@ -4,11 +4,11 @@
 
 In this project, you will work in small team to produce a design process, digital media, and documentation. Your team will build its own project by setting meeting agendas, creating a concept pitch, develop and use a design process/sprint structure, track and document progress using a project blog, and produce project documentation. The project outcomes can take the form of any combination of digital media formats including 2D, 3D, video and motion design, interactive and web, UX/UI app design, and product design. The projects could emphasize a wide range of approaches including tool building, product or service, marketing or awareness campaigns, calls to action, open-source tools, traditional or experimental digital story telling, speculative design, wayfinding, identity systems, toolkits, educational materials, etc.
 
-Avoid basing your proejct around existing intellectual properties \(movies, comics, games, etc.\) unless you do something conceptually sophisticated like a parody, deconstruction, etc.
+Avoid basing your project around existing intellectual properties \(movies, comics, games, etc.\) unless you do something conceptually sophisticated like a parody, deconstruction, etc.
 
 Please read through [project categories](/project-categories.md) to learn more about the types of projects possible to produce and their production needs. While the media and form of your project is up to you, the following focus word should be used as a jumping off point for your project's concept.
 
-### The conceptual focus word for this project is:"Inclusive"
+### The conceptual focus word for this project is: “Inclusive”
 
 > Inclusive Design is a methodology, born out of digital environments, that enables and draws on the full range of human diversity. Most importantly, this means including and learning from people with a range of perspectives.
 
@@ -34,6 +34,7 @@ Please read through [project categories](/project-categories.md) to learn more a
 * [The Moral Responsibility of Cinema: The Politics of Representation and Expectation](https://thepolitic.org/the-moral-responsibility-of-cinema-the-politics-of-representation-and-expectation/) by Tat Wei Lee 
 * [Design for All](https://corporate.target.com/article/2020/05/design-for-all-film) documentary film by Target; poorly named because it's about inclusive design for _specific_ needs more than universal design. Watch the trailer or check out the film on Hulu.
 *[Gender-neutral design system by TurboTax](https://medium.com/intuit-engineering/turbotax-lives-approach-to-a-gender-neutral-design-system-bed0c45ece44) described in a great blog post.
+*[Gender, like language, is fluid](https://jenniferdaniel.substack.com/p/gender-like-language-is-fluid-) by Jennifer Daniel, about inclusive emoji sets. 
 
 ## Project overview
 
