@@ -33,8 +33,8 @@ Please read through [project categories](/project-categories.md) to learn more a
 * [Design is diversity ](https://uxdesign.cc/design-is-diversity-its-time-to-talk-about-our-role-as-designers-323781b10b6f)by Fabricio Teixeira \(and related articles at UX Collective\)
 * [The Moral Responsibility of Cinema: The Politics of Representation and Expectation](https://thepolitic.org/the-moral-responsibility-of-cinema-the-politics-of-representation-and-expectation/) by Tat Wei Lee 
 * [Design for All](https://corporate.target.com/article/2020/05/design-for-all-film) documentary film by Target; poorly named because it's about inclusive design for _specific_ needs more than universal design. Watch the trailer or check out the film on Hulu.
-*[Gender-neutral design system by TurboTax](https://medium.com/intuit-engineering/turbotax-lives-approach-to-a-gender-neutral-design-system-bed0c45ece44) described in a great blog post.
-*[Gender, like language, is fluid](https://jenniferdaniel.substack.com/p/gender-like-language-is-fluid-) by Jennifer Daniel, about inclusive emoji sets. 
+* [Gender-neutral design system by TurboTax](https://medium.com/intuit-engineering/turbotax-lives-approach-to-a-gender-neutral-design-system-bed0c45ece44) described in a great blog post.
+* [Gender, like language, is fluid](https://jenniferdaniel.substack.com/p/gender-like-language-is-fluid-) by Jennifer Daniel, about inclusive emoji sets. 
 
 ## Project overview
 
