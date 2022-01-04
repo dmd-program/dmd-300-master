@@ -6,6 +6,12 @@
 2. **Consider setting roles and responsibilities.** Members may have multiple roles.
 3. If your team feels that the design process isn't working as intended, feel free to change up the design of the sprint. However, don't give up too early, sometimes you have to trust the process to give it a chance to work.
 
+## Sprint Updates \(Group Blog Posts\)
+
+In addition to your individual Weekly Reports, each group must post a blog post to a public blog.
+
+Each Sprint Update must be **at least 500 words long** and **include images or video media**. 
+
 ## Resources
 
 * WP Beginner: [How to Add a New Post in WordPress and Utilize all the Features](https://www.wpbeginner.com/beginners-guide/how-to-add-a-new-post-in-wordpress-and-utilize-all-the-features/)

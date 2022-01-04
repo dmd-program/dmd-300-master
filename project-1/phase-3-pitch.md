@@ -6,6 +6,10 @@ Produce a short presentation that explains the project concept. Use presentation
    * If doing voice narration, you can choose one team member to narrative, or have different members contribute narration of different slides.
 2. **PDF export** of slides used for the video.
 
+## Requirements 
+- Must include original images or sketches depicting how the final project might appear
+- Must include images of related creative work or designs that indicate your stylistic goals, competitors, or inspiration. 
+
 ## Resources
 
 * [How to record slideshow and narration with Powerpoint ](https://support.office.com/en-us/article/video-record-presentations-2570dff5-f81c-40bc-b404-e04e95ffab33)

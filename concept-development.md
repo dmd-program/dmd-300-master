@@ -32,3 +32,12 @@ Creative thinking methods are helpful for identifying a concept. However, more o
 
 In DMD 100, students are guided through the entire production of three projects through a careful orchestration of design thinking exercises and a set of rules or criteria that bounded the scope. The rules set in place made it so that the student could concentrate on the content of the project, rather than finding an appropriate scale and bounds for the project. In a capstone project, students are responsible for establishing these rules for themselves, an often difficult task that takes practice to master.
 
+## Suggested Brainstorming Methods
+
+These are some 100% subjective strategies that you can try if you're struggling to come up with a good project idea:
+
+- Make a list of things you're uniquely good at, and a second list of things you'd like to incorporate in the project. This can help narrow your sights.
+- Make a [mind map](https://simplemind.eu/how-to-mind-map/basics/) of words or ideas associated with a central concept. Discover unexpected relationships and personal sensibilities.  
+- Take a walk. Take a nap. Try to set aside your work and creative concerns and let your mind wander. 
+- Write a list of questions. Be uncertain, and maybe one of these will establish a creative destination as you seek for answers. 
+- Make a list of your favorite artists, designers, writers, or other inspirational makers. Think of their individual styles and sensibilities as ingredients that you want to put into your work. What if you combined Person A's work with Person B. What would that be like? 

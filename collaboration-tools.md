@@ -31,7 +31,7 @@
    * [Google Slides]
       * Simple way to share images and comments.
    * [Figma](https://www.figma.com/)
-      * Paid design app for UI design, featuring online collaborative projects.
+      * Design app for UI design, featuring online collaborative projects.
 
 
 

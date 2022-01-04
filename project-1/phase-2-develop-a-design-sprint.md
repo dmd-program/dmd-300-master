@@ -19,23 +19,24 @@ The sprint document should include:
  ### Schedule:
 
   Consult the [design process and methods page](/design-process-and-methods.md) to choose design and research methods that fit your team's needs and interests. Place the chosen methods onto a schedule that plots a course to the final project due date. Name the method and describe what occurs in each session \(what you're doing\) with the anticipated outcomes \(why you're doing it\).
-   * **Session:** Day, time, duration of session
-      * A.k.a. phase, stage, week...
-      * Be sure to include specific dates and budget your time wisely! Avoid doing everything in the last possible week.
-   * **Method name:** Include one or more methods for each category in the following list. You may repeat categories and methods as often as needed, and they do not all need to be collaborative or group based:
-     * Research, discovery
-     * Ideation, concept development
-     * Production, testing, iteration
-     * Analysis, feedback
-   * **Description:** Briefly describe how the method works and the anticipated outcomes from using the method. You may include specific tools you plan to use or specific group members who will complete a task.
+   * **Date:** A date or date range for which your group will conduct ach phase of the project. 
+      * Avoid doing everything in the last possible week.
+   * **Objective:** Schedule some time for each item in the following list. These are the essential steps of design thinking, and go by various names depending on the design framework you're looking at. The important part is to articulate *what you're trying to accomplish* at each step of the project, or *why* you're doing each specific thing. You may repeat categories and objectives as often as needed, and they do not all need to be collaborative or group-based:
+     * Research/discovery
+     * Ideation/concept development
+     * Production/testing/iteration
+     * Analysis/feedback
+   * **Description:** Briefly describe how you are accomplishing the objective and the anticipated outcomes from using your chosen design methodology. 
+   
+   You include other columns or items in your timeline as desired, such as specific tools you plan to use or specific group members who will complete a task. This can be a table or a hierarchical text document. 
 
    **Example Schedule:**
 
-| Session 1                                                                          |   Deliver                                                         | Session 2                | Etc... |   |
-|------------------------------------------------------------------------------------|------------------------------------------------------------|--------------------------|------|---|
-| Date 1 – Date 2                                                                    | Date Y                                                     | Date 2 – Date 3          | Etc... |   |
-| Discovery                                                                          | Deliver Pitch                                              |  Production       | Etc... |   |
-| Research existing products in field and brainstorm solutions to project challenge. | Articulate specific goals and sketch out vision of project | Develop rough prototypes | Etc... |   |
+| Date       | Objective | Description                                                                        | Deliverable           |   |
+|------------|-----------|------------------------------------------------------------------------------------|-----------------------|---|
+| Jan. 15–24 | Discovery | Research existing products in field and brainstorm solutions to project challenge. | Create product pitch  |   |
+| Jan. 24–30 | Ideation  | Brainstorm specific solutions to problem and create low-fidelity sketches.         | Low-fiedlity prototypes |  |
+|            |           |                                                                                    |                      |   |
 
 ---
 
