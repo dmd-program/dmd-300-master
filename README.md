@@ -22,6 +22,6 @@ This book is licensed as [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0
 
 ## Contributing
 
-Anyone can recommend additions or alterations to this course. Please, submit a [pull request on github.com](https://github.com/dmd-program/dmd-300-sp20) or file an issue in the [issue queue](https://github.com/dmd-program/dmd-300-sp20/issues).
+Anyone can recommend additions or alterations to this course. Please, submit a [pull request on github.com](https://github.com/dmd-program/dmd-300-master) or file an issue in the [issue queue](https://github.com/dmd-program/dmd-300-master/issues).
 
 
