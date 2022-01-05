@@ -19,23 +19,28 @@ The concept pitch is a presentation document that serves as a both a communicati
    * What topics need to be researched?
    * Who is the audience for the work?
    * Which category 
-4. **Production Scope**
+4. **Project Type**
+   * Specify which of the project categories and types your project falls under. 
+   * Example: "2D Design, 3D Rendering, and Illustration: Typeface design"
+   * If nothing on the list matches your idea exactly, describe it as best you can and still choose the closest category.
+5. **Production Scope**
    * What are the deliverables to be completed or produced? \(IE - storyboards, interviews, web application, website, wireframes, animatics, character designs, scripts, game executable, video, etc.\)
-5. **Production Pipeline**
+6. **Production Pipeline**
    * What tools will be used?
    * What design processes and methods will be used?
    * Who will be involved \(list any collaborators, advisors, etc.\)?
    * Will you use management tools to keep on track?
-6. **Required Capabilities**
+7. **Required Capabilities**
    * What capabilities and skills are required to complete the project?
-7. **Existing Capabilities**
+8. **Existing Capabilities**
    * Show past work that demonstrates your existing capabilities as related to the project concept.
-8. **Needed Capabilities**
+9. **Needed Capabilities**
    * List any items from the Required Capabilities slide that are not in your Existing Capabilities slide.
    * Explain how you will you get up to speed in time.
-9. **Timeline**
+10. **Timeline**
    * List steps in the production timeline.
-10. **Research**
+   * Like we did in Project One, label the stages of your timeline with design objectives like "discovery" and "iteration" to describe *why you're doing each item* in the timeline.
+11. **Research**
     * What areas of research do you intend to pursue during the production of this project?
     * What are your research resources?
 11. **Questions for your project reviewers**
