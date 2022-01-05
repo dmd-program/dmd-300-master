@@ -8,48 +8,78 @@ The following is a list of media that you might choose to work with in your proj
 
 Additional resources for learning these fields can be found at the end of this course book under [Project Categories](/project-categories.md), but your learning path will be largely self-directed—with advice from your instructor of course!
 
-* **Animation \(2D, 3D\)**
-  * Short film
-  * Explainer animation
-  * motion graphics \(bumper animations, commercials, titles\)
-  * Experimental
-  * VJ Loops
-  * Projection Mapping
-* **Interactive**
-  * AR/VR
-  * Interactive story
-  * Serious Game
-  * Physical game \(printed boards and/or 3D objects\)
-* **Product or service**
+* **[2D and 3D Animation](https://dmd-program.github.io/art-design-course-resources/animation.html)**
+    * Narrative short film
+    * Explainer animation \(Vox makes a lot of fun infographic style videos\)
+    * Motion graphics (bumper animations, commercials, titles, user interface elements in 3D environments)
+    * Experimental or non-narrative content: Examples on vimeo.com
+    * Scientific or data-driven simulations and visualizations
+    * VJ loops for live performances
+    * Projection mapping \(projecting video onto structures or surfaces\)
+    * Web-based animation \(HTML/CSS/Javascript\)
+* **[2D Design, 3D Rendering, and Illustration](https://dmd-program.github.io/art-design-course-resources/illustration-and-2d.html)**
+    * Branding and/or print design
+        * Design system or standards manual
+        * Logo design
+        * Stationary or merchandise design
+    * Posters and Infographics
+    * Typeface design
+    * Digital illustrations
+        * Concept art for pre-production \(character, vehicle, environment design for comics, games, film, etc.\)
+        * Sequential comics \(print or web\)
+        * Digital children's book (for iPad or mobile device)
+    * Architectural renderings
+    * Product renderings
+    * App or website mockups \(see those respective development pages for more\)
+    * Data visualizations or Infographics
+    * 2D or 3D assets for games including character design and environment design
+    * Code-generated art
+* **[Apps and Interactive Media](https://dmd-program.github.io/art-design-course-resources/apps-and-interactive.html)**
+    * Augmented/Virtual Reality (AR/VR) games, visualizations, architecture, and journalism.
+    * Interactive 2D or 3D fiction or non-fiction story
+    * 2D or 3D video game, ideally something creative or serious
+    * Physical game \(printed boards, cards, and/or 3D objects)\
+    * Projected or screen-based interactive installation art
+    * Physical computing project (Arduino, Raspberry Pi, etc.)
+    * Creative coding projects \(e.g. Processing\)
+    * Apps for mobile devices or desktop. 
+* **[Audio Production](https://dmd-program.github.io/art-design-course-resources/audio.html)**
+    * Podcast
+    * Audio tour or site-specific experience
+    * Experimental installation (something that explores the possibilities of sound and perception)
+* **[Installations and Objects](https://dmd-program.github.io/art-design-course-resources/installations-and-objects.html)**
+    * Physical art object(s)
+    * Installation or exhibition
+    * Detailed proposal for an exhibition 
+    * Speculative installation
+    * Design-based community event or festival
+    * Curation of an art or design exhibition
+    * Public art or intervention 
+    * Fabricated designs or prototypes
+* **[Products, Services, and UX](https://dmd-program.github.io/art-design-course-resources/products-services-ux.html)**
   * Functional mobile or web app
   * High fidelity interactive mockups \(UI\)
   * Speculative or discursive design projects
   * Comprehensive user Experience \(UX\) Research
+  * Instructional design product
   * Digital fabrication products or prototypes \(furniture, wearables, clothes, structures, etc.\) 
-* **2D or 3D Illustration, rendering, and graphic visualizations**
-  * Branding and/or print
-    * Logo design
-    * Web design and/or development
-    * Stationary or merchandise design
-  * Typeface design 
-  * Illustrations
-    * Comic \(print or web\)
-    * Children's book
-  * Infographics
-  * Architectural renderings
-  * Concept art for pre-production \(character, vehicle, environment design for comics, games, film, etc.\)
-  * Data visualizations
-  * 3D Modelling
-* **Audio/Video Production**
-  * Abstract or performance film
-  * Short-film
-  * Music video
-  * Abstract performance capture
-  * Audio experience/podcast
-* **Installation or physical design intervention**
-  * Physical computing and IoT device \(e.g. Arduino, Rasberry Pi, and circuit building\)
-  * Art or design installation 
-  * Organize design-based event
+* **[Video Production and Photography](https://dmd-program.github.io/art-design-course-resources/video-and-photo.html)**
+    * Video
+      * Narrative short film — Something with characters and a plot.
+      * Experimental film —  [Examples on vimeo.com](https://vimeo.com/categories/experimental)
+      * Documentary short
+      * Animations — See Animation page 😉
+    * Photography
+      * Physical exhibition
+      * Virtual exhibition 
+      * Digital/Print publication
+* **[Web Design](https://dmd-program.github.io/art-design-course-resources/web-design.html)**
+    - Landing page or informational site
+    - Business or eCommerce site
+    - Experimental site
+    - Net art
+    - Interactive storytelling
+    - Web app
 
 
 
