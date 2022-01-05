@@ -18,6 +18,7 @@ The concept pitch is a presentation document that serves as a both a communicati
    * What Digital media is used?
    * What topics need to be researched?
    * Who is the audience for the work?
+   * Which category 
 4. **Production Scope**
    * What are the deliverables to be completed or produced? \(IE - storyboards, interviews, web application, website, wireframes, animatics, character designs, scripts, game executable, video, etc.\)
 5. **Production Pipeline**
