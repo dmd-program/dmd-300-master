@@ -41,3 +41,4 @@ These are some 100% subjective strategies that you can try if you're struggling 
 - Take a walk. Take a nap. Try to set aside your work and creative concerns and let your mind wander. 
 - Write a list of questions. Be uncertain, and maybe one of these will establish a creative destination as you seek for answers. 
 - Make a list of your favorite artists, designers, writers, or other inspirational makers. Think of their individual styles and sensibilities as ingredients that you want to put into your work. What if you combined Person A's work with Person B. What would that be like? 
+- Make an [affinity diagram](https://www.nngroup.com/articles/affinity-diagram/), a format for design workshops and team brain-storming. 
