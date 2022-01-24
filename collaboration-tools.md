@@ -1,20 +1,20 @@
 # Collaboration tools
 
-1. **Design thinking**
-   1. **Mural.co**: [Member invite link](https://app.mural.co/invitation/team/dmd3007494?code=6c9320b6e2fe40b2b5f7bd0efed6a871&sender=msc2278195)
-      * For group/team projects, one person from each group should join Mural.co via this link, create the murals, and invite the rest of the team as guests. This account is limited to 10 members, and we cannot add everyone as members unfortunately.
-      * For individual student projects, you may create your own mural.com education account, and invite your instructor as a member.
-2. **Team communications**
+
+1. **Team communications**
    1. Video conferencing
       * Zoom \([psu.zoom.us](https://psu.zoom.us)\)
       * Skype
       * Google Hangouts / Meet 
-   2. Team management and tasks
-      * Canvas group's page
-      * Team discussions, announcements, conferences, files, etc.
       * Slack \([dmd-program.slack.com](http://dmd-program.slack.com)\)
+      * Discord
+2. **Team management and tasks**
+      * Canvas group's page
+      * Mural: [Member invite link](https://app.mural.co/invitation/team/dmd3007494?code=6c9320b6e2fe40b2b5f7bd0efed6a871&sender=msc2278195)
+         * For group/team projects, one person from each group should join Mural.co via this link, create the murals, and invite the rest of the team as guests. This account is limited to 10 members, and we cannot add everyone as members unfortunately.
+         * For individual student projects, you may create your own mural.com education account, and invite your instructor as a member.
       * [Trello](https://trello.com)
-      * [Waffle.io](https://waffle.io) and Github.com
+      * [Waffle.io](https://waffle.io) 
       * [Basecamp](https://basecamp.com/)
       * [Asana](http://asana.com)
       * [Notion](https://notion.so/)
