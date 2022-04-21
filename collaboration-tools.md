@@ -8,6 +8,7 @@
       * Google Hangouts / Meet 
       * Slack \([dmd-program.slack.com](http://dmd-program.slack.com)\)
       * Discord
+      * [Loom](https://www.loom.com) — record short video feedback on designs
 2. **Team management and tasks**
       * Canvas group's page
       * Mural: [Member invite link](https://app.mural.co/invitation/team/dmd3007494?code=6c9320b6e2fe40b2b5f7bd0efed6a871&sender=msc2278195)
