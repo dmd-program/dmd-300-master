@@ -29,7 +29,7 @@ The exhibition card image will be the sole image displayed on the exhibition ind
 
 #### Gallery images
 
-Gallery images are shown on your project's profile page. Try to include between 3 to 12 images. Images can be close up views of details, documentation of process, etc. Do not include images larger than 1200px in any dimension. Use Photoshop to export `.jpg` images for display on the web at a compressed file size.
+Gallery images are shown on your project's profile page. Try to include between 3 to 6 images. Images can be close up views of details, documentation of process, etc. Do not include images larger than 1200px in any dimension. Use Photoshop to export `.jpg` images for display on the web at a compressed file size.
 
 **File name:**
 
@@ -41,11 +41,9 @@ Gallery images are shown on your project's profile page. Try to include between 
 
 #### Video files
 
-Video files require a poster image that is displayed before the video files loads. Youtube and Vimeo typically create these automatically, however, you will need to include one with your video file. If you have more than one video file, please match the numbering of the poster to the video file.
+Upload any videos to YouTube or Vimeo.
 
-**Example poster image name:** `[last-name][first-name]-video-poster-01.jpg`
-
-**Example video file name:** `[last-name][first-name]-video-01.mp4`
+You can set it to "unlisted" if you don't want it fully accessible within YouTube. (The video will still be visible on the exhibition site.)
 
 #### Interactive elements
 
