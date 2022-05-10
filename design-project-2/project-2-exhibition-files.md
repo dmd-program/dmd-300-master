@@ -8,17 +8,14 @@ Media files will vary from project to project, however, it is typical to have ga
 
 Please use the exact filename structures listed for each item below.
 
-### Instructions:
-
-**Download (Right click → Save As):** [Media template files (5.9MB)](//assets/media-templates.zip)
 
 Unless you are using a pseudonym, replace **[last-name]** in the file with your last name and **[first-name]** with your first name.
 
 If you ARE using a pseudonym, please use it in place of **\[last-name\]\[first-name\]**.
 
-#### Exhibition card image (required)
+### Exhibition card image (required)
 
-The exhibition card image will be the sole image displayed on the exhibition index page, along with other student's work. The project name and student name will be displayed below each card image.
+The exhibition card image will be the main image displayed for your project on the exhibition site homepage, alongside other student's work. The project name and student name will be displayed below each card image.
 
 * 1200px x 600px (landscape orientation)
 * JPEG or PNG file
@@ -27,7 +24,9 @@ The exhibition card image will be the sole image displayed on the exhibition ind
 
 **File name:** `[last-name][first-name]-exhibition-card-image-1200x600.jpg`
 
-#### Gallery images
+\(Don't include the square brackets in the filename 😉\)
+
+### Gallery images
 
 Gallery images are shown on your project's profile page. Try to include between 3 to 6 images. Images can be close up views of details, documentation of process, etc. Do not include images larger than 1200px in any dimension. Use Photoshop to export `.jpg` images for display on the web at a compressed file size.
 
@@ -39,13 +38,13 @@ Gallery images are shown on your project's profile page. Try to include between 
 4. `[last-name][first-name]-gallery-image-##.jpg`
 
 
-#### Video files
+### Video files
 
 Upload any videos to YouTube or Vimeo.
 
 You can set it to "unlisted" if you don't want it fully accessible within YouTube. (The video will still be visible on the exhibition site.)
 
-#### Interactive elements
+### Interactive elements
 
 If you are using an embedded interactive element, please include the embed code in a `.txt` file. If your interactive elements require many files to operate, please include a `.zip` file of those files.
 
@@ -53,7 +52,7 @@ If you are using an embedded interactive element, please include the embed code 
 
 `[last-name][first-name]-embed-01.txt` **or** `[last-name][first-name]-files-01.zip`
 
-#### Audio
+### Audio
 
 Convert audio files to `.mp3` so they may be playable from a web browser.
 
