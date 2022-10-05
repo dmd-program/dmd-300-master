@@ -15,7 +15,6 @@
          * For group/team projects, one person from each group should join Mural.co via this link, create the murals, and invite the rest of the team as guests. This account is limited to 10 members, and we cannot add everyone as members unfortunately.
          * For individual student projects, you may create your own mural.com education account, and invite your instructor as a member.
       * [Trello](https://trello.com)
-      * [Waffle.io](https://waffle.io) 
       * [Basecamp](https://basecamp.com/)
       * [Asana](http://asana.com)
       * [Notion](https://notion.so/)
