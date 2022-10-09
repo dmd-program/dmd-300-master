@@ -21,13 +21,13 @@
                 {
                     "label": "Download PDF",
                     "icon": "fa fa-file-pdf-o",
-                    "url": "https://dmd-program.github.io/dmd-300-master/creative-research-book.pdf",
+                    "url": "https://dmd-program.github.io/dmd-300-master/exports/dmd-300-master.pdf",
                     "target": "_blank"
                 },
                 {
                     "label": "Download ebook",
                     "icon": "fa fa-book",
-                    "url": "https://dmd-program.github.io/dmd-300-master/creative-research-book.epub",
+                    "url": "https://dmd-program.github.io/dmd-300-master/exports/dmd-300-master.epub",
                     "target": "_blank"
                 }
                 
