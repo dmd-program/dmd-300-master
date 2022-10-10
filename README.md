@@ -6,7 +6,7 @@ Visit the [DMD Program Hub](http://dmd.psu.edu/) for more details.
 
 
 
-## Contributors
+## Contributors 
 
 **Primary course author**
 
