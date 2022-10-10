@@ -74,26 +74,20 @@ Explore the links below and consider how these approaches to creative work relat
 4. [**Work statement**](/design-project-2/project-2-work-statement.md) that uses design language \(Canvas\)
 5. [**Project files:**](/design-project-2/project-2-files.md) \(Canvas\)
 6. [**Project documentation**](/design-project-2/project-2-documentation.md) \(Canvas, production blog\)
-7. **Online exhibition information form: See on Canvas**
 
 ## Project media
 
 If you are unsure of what types of digital projects are available to create, please have a look at the [project categories](/project-categories.md). This is not a comprehensive list, but you should be able to locate your own creative interests within.
 
-## Online Exhibition
-
-Project Two will culminate in an online exhibition of student work. Exhibitions typically have a central theme—a conceptual thread that links the work together. Your instructor will coordinate the online exhibition and will be accessible to anyone with Penn State login credentials.
-
 ## Rubric
 
 All project deliverables must be met for the project to be graded. A non-submission or non-completion for any part of the project is considered an incomplete project.
 
-1. Met all deliverable requirements: 20%
+1. Met all deliverable requirements: 25%
 2. Project outcomes: 
-   * Concept: 20%
-   * Craft: 20%
-   * Work Statement: 20%
-   * Participation in online exhibition: 20%
+   * Concept: 25%
+   * Craft: 25%
+   * Work Statement: 25%
 
 
 
