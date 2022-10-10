@@ -2,9 +2,7 @@
 
 ## Description
 
-For this project, you will produce a digital design work that critically engages with the project's theme. You will also develop a design concept, production process, and a well-articulated work statement to explains your work to a wide audience. Your work will then be collectively displayed in a online exhibition visible to the Penn State community.
-
-Avoid basing your project on existing intellectual properties \(movies, comics, games, etc.\) unless you do something conceptually sophisticated like a parody, deconstruction, or appropriation.
+For this project, you will produce a digital design work that critically engages with the project's theme. You will also develop a design concept, production process, and a well-articulated work statement to explains your work to a wide audience. Avoid basing your project on existing intellectual properties \(movies, comics, games, etc.\) unless you do something conceptually sophisticated like a parody, deconstruction, or appropriation.
 
 ## Project Theme: *SLOW*
 
