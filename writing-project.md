@@ -1,53 +1,45 @@
 # Writing project
 
-This essay is a substantial part of the class and should demonstrate college-level writing and your ability to research appropriate sources.
 
-## The title of your essay should be a question
+## 1. Analyze a specific work by an artist, designer, filmmaker, or studio
 
-That means it should end in a question mark. 
+Incorporate a discussion of one creative work or project into your essay. This should somehow relate to your central line of investigation, and relate to media you are interested in.
 
-What questions do you have about the ideas, feasibility, or historical context of your work? What unexpected connections can you make? What is missing? What is confusing? 
+-  You are encouraged too look for new, obscure, historical, or otherwise thought-provoking creators — not just mainstream pop culture. 
+- **Include a thorough and detailed description of the work's design** — Assume your reader has not seen the work before. Describe formal qualities such as, colors, shapes, movement, structure, and so on. Use descriptive adjectives to help the reader picture the work.
+- **Include the work title, date, medium, and location \(as relevant\)**
+- Describe pertinent historical context for the work.
+- Include credible scholarly sources to support claims and information.
 
-The essay should seek to discover an answer \(or possible answers\) to this question or explore the context that gave rise to the question. 
+## 2. The title of your essay should be a question
 
-## Analyze a specific work by an artist, designer, filmmaker, or studio
+What questions do you have about the ideas, feasibility, or historical context of your work? What unexpected connections can you make? What is missing? What is confusing? The title of your essay should end in a question mark and should seek to discover an answer \(or possible answers\) to this question or explore the context that gave rise to the question. 
 
-Incorporate a discussion of one creative work or project into your essay. This should somehow relate to your central line of investigation, and relate to your own project somehow. It might be someone working in the same medium, or with related subject matter, or some really amazing work that you aspire towards. 
 
-**Include a thorough and detailed description of the work's design** — how it looks, its colors, shapes, movement, structure, and so on. Use lots of vivid, descriptive adjectives to help the reader picture the work in their head, as if they had never seen it before. 
+## 3. Citations
 
-**Include the title, date, medium, and location \(as relevant\)**
-
-Some potential resources are listed below; you are encouraged too look for new, obscure, historical, or otherwise thought-provoking creators—not just mainstream pop culture. 
-
-## Include two citations to professional writing
-
-To support your arguments and explore the work of your chosen artist, incorporate quotes or data from two published sources. Do not cite Wikipedia \(but you can peruse the citations of a Wikipedia page to find authoritative sources\).
+To support your arguments and explore the work of your chosen artist, incorporate quotes or data from a minimum of three published sources. Do not cite Wikipedia \(but you can peruse the citations of a Wikipedia page to find authoritative sources\).
 
 Search for articles and ebook at the [Penn State Library](https://libraries.psu.edu/) or [Google Scholar](https://scholar.google.com/)
 
 
-## Suggestions
+## 4. Not sure where to begin?
 
-Not sure where to begin?
+1. You could start with an artist or designer, and pose a question that intrigues you about their work, or suggests a possible connection to your project.
+2. Consider the historical or theoretical context of one of your current or past projects, and find writing and creative work that lies in a similar orbit. 
+3. This writing should be though of as art or design criticism \(a critical and reasoned examination of a cultural object\). Consider your unique point-of-view and feel free to choose a subject that you are passionate about.
+4. Imagine someone else was writing a serious essay about your work, what connections or questions would they include?
 
-You could start with an artist or designer, and pose a question that intrigues you about their work, or suggests a possible connection to your project. 
+## Writing requirements
 
-You could consider the historical or theoretical context of your project, and find writing and creative work that lies in a similar orbit. 
+Your essay should include discrete paragraphs that give structure to your writing, including an introduction and conclusion. This essay is a substantial part of the class and should demonstrate college-level writing and your ability to research appropriate sources.
 
-You're basically writing art criticism \(a critical and reasoned examination of a cultural object\), so think about what your unique point-of-view is in regard to all of this. Do you have an axe to grind with some genre of work? What's something you already know about that relates to your project? Imagine someone else was writing a serious essay about your work, what connections or questions would they include?
+Please use MS Word for this project with the following structure:
 
-
-## Requirements
-
-Your essay should include discrete paragraphs that give structure to your writing, including an introduction and conclusion.
-
-Please use MS Word for this project.
-
-* Name, date, title 
-* Minimum of 1000 words \(2 pages single spaced\) 
-* Bibliography using citations throughout writing
-* Submit a DOCX file
+- Name, date, title 
+- Minimum of 1000 words \(2 pages single spaced\) 
+- Bibliography using citations throughout writing
+- Submit a DOCX file
 
 ## Rubric
 
