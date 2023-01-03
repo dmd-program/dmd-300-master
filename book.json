@@ -1,0 +1,37 @@
+{
+    "title": "DMD 300: Digital Multimedia Design Studio",
+    "author": "Michael Collins",
+    "language": "en",
+    "plugins": [
+        "oerschema",
+        "youtube",
+        "codeblock-disable-glossary",
+        "github-edit",
+        "-sharing",
+        "toolbar"
+    ],
+    "pluginsConfig": {
+        "github-edit": {
+            "repo": "dmd-program/dmd-300-master",
+            "branch": "master"
+        },
+        "toolbar": {
+            "buttons":
+            [
+                {
+                    "label": "Download PDF",
+                    "icon": "fa fa-file-pdf-o",
+                    "url": "https://dmd-program.github.io/dmd-300-master/exports/dmd-300-master.pdf",
+                    "target": "_blank"
+                },
+                {
+                    "label": "Download ebook",
+                    "icon": "fa fa-book",
+                    "url": "https://dmd-program.github.io/dmd-300-master/exports/dmd-300-master.epub",
+                    "target": "_blank"
+                }
+                
+            ]
+        }
+    }
+}

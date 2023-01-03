@@ -22,7 +22,6 @@
     * [Production Reports](design-project-2/project-2-production-reports.md)
     * [Documentation](design-project-2/project-2-documentation.md)
     * [Project Files](design-project-2/project-2-project-files.md)
-    * [Exhibiton Files](design-project-2/project-2-exhibition-files.md)
   * [Writing Project](writing-project.md)
 * [Project Categories and Resources](project-categories.md)
 * [License](license.md)
