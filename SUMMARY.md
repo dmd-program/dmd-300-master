@@ -16,7 +16,7 @@
     * [Phase 3: Pitch](project-1/phase-3-pitch.md)
     * [Phase 4: Sprint!](project-1/phase-4-design-sprint.md)
     * [Phase 5: Document](project-1/phase-5.md)
-  * [Project 2: Independent Design Project](individual-design-project.md)
+  * [Project 2: Independent Design Project](design-project-2/project-2-project-description.md)
     * [Concept Pitch](design-project-2/project-2-concept-pitch.md)
     * [Work Statement](design-project-2/project-2-work-statement.md)
     * [Production Reports](design-project-2/project-2-production-reports.md)
