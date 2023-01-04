@@ -2,7 +2,7 @@
 
 ## Description
 
-For this project, you will produce a digital design work that critically engages with the project's theme. You will also develop a design concept, production process, and a well-articulated work statement to explains your work to a wide audience. Your work will then be collectively displayed in a class-wide online exhibition.
+For this project, you will produce a digital design work that critically engages with the project's theme. You will also develop a design concept, production process, and a well-articulated work statement to explains your work to a wide audience. This is an opportunity to work on a project over a longer period and focus your creative interests in anticipation of the capstone course \(DMD-400\).
 
 ---
 
@@ -102,7 +102,6 @@ Feel free to use other AI tools besides these!
 4. [**Work statement**](/design-project-2/project-2-work-statement.md) that uses design language \(Canvas\)
 5. [**Project files:**](/design-project-2/project-2-files.md) \(Canvas\)
 6. [**Project documentation**](/design-project-2/project-2-documentation.md) \(Canvas, production blog\)
-7. **Online exhibition information form:** [Form Link](https://forms.office.com/Pages/ResponsePage.aspx?id=RY30fNs9iUOpwcEVUm61LpKTUYPpqWVNtct2hclEf_pUNkI5Sk9URUNURVg1RTFZOTdHMDQ3TFhVMC4u)
 
 ---
 
@@ -114,21 +113,23 @@ Feel free to use other AI tools besides these!
 * **Week 8**
   * Concept pitch slides are due \(Canvas\).
 * **Week 9**
+  * Discuss pitch with instructor
   * Production Report \#1 due
 * **Week 10**
-  * Production Report \#2 due
+  * Writing Project due
 * **Week 11**
+  * Production Report \#2 due
   * Mid-production Instructor Check-in
-  * Work statement draft \#1 due
-  * Production Report \#3 due
 * **Week 12**
-  * Production Report \#4 due
+  * Production Report \#3 due
+  * Work statement draft \#1 due
 * **Week 13**
-  * Production Report \#5 due
+  * Production Report \#4 due
   * Work Statement Draft \#2 due
 * **Week 14**
-  * Complete exhibition form
-  * **Submissions:**
+  * Production Report \#5 due
+* **Week 15**
+  * **Final Submissions:**
     1. Project Files
     2. Final Work Statement
     3. Project Documentation
@@ -141,11 +142,6 @@ If you are unsure of what types of digital projects are available to create, ple
 
 ---
 
-## Online Exhibition
-
-Exhibitions typically have a central theme—a conceptual thread that links the work together. Exhibition curators contextualize selected works which often ascribes new or additional meaning to the individual works as a result. The online exhibition's theme will be chosen after student projects are completed. DMD 300 online exhibitions are designed to run back to back, and will last until the next cohort of DMD 300 students participate. This makes the exhibition duration somewhat variable, but should not last more than one year and no less than a single semester. Your instructor will coordinate the exhibition, which will be available in two options; a Penn State only online exhibition, and a fully public online exhibition. Students choosing to participate in the fully public exhibition will also have their work shown in the Penn State only exhibition. Students participating in the Penn State only exhibition will not have work shown in the fully public exhibition. The fully public exhibition will be maintained on the DMD program website as an archive after the exhibition has ended—incorporating willing students' work into the program's heritage.
-
----
 
 ## Rubric
 
