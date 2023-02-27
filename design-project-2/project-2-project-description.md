@@ -44,11 +44,13 @@ Beyond process or materials, what should your project be ******about?****** That
 ### Text
 
 - [Chat GPT](https://openai.com/blog/chatgpt/): Chat with a general purpose AI that offers surprisingly natural answers to your questions or prompts. Ask it to write a story, explain how something works, generate functional code, recipes, or brainstorm ideas for specific prompts. For extra fun, ask it to do these things in specific writing styles or genres.
+- [Notion AI](https://www.notion.so/product/ai): Use AI to generate text or modify existing text inside this powerful productivity app. Select text and "enhance" it, shorten or add more, change the tone, summarize, and more. 
 - [Alpa](https://opt.alpa.ai/): Simple browser interface for GPT-3 text generation, including some ability to customize.
 - [Lex](https://lex.page/): An AI-assisted text editor. Write a document and let the AI continue your ideas, generate text, or develop notes into full text.
 
 ### Sounds
 
+- [ElevenLabs](https://beta.elevenlabs.io/): Generate realistic speech form text, including the ability to upload recordings to use as a basis for the synthetic voice.
 - [Image to Music](https://huggingface.co/spaces/fffiloni/img-to-music): Upload an image and generate a short music clip based on it!
 - [Text to Music](https://huggingface.co/spaces/Mubert/Text-to-Music): Generate music (including loops!) based on text input.
 
@@ -62,9 +64,14 @@ Beyond process or materials, what should your project be ******about?****** That
     - [Finetuned Difussion](https://huggingface.co/spaces/anzorq/finetuned_diffusion) : Similar to above, but with controls to guide and define the resulting images.
     - [Stable Difussion Multi-Inpainting](https://huggingface.co/spaces/multimodalart/stable-diffusion-inpainting): Add generated imagery to an existing image.
     - [DALL-E Mini](https://huggingface.co/spaces/dalle-mini/dalle-mini) : A simplified version of the popular DALLL-E image generator.
+- [AutoDraw](https://www.autodraw.com/): Draw simple doodles and let Google's AI enhance it into recognizable illustrations.
+- [Scribble Diffusion](https://scribblediffusion.com/): Similar to the above doodle tool, but outputs photographic images instead of line art.
+- [Let's Enhance](https://letsenhance.io/): Artificially increase the resolution and quality of images \(you could use this in combination with the image generator's above, which typically create rather small iamges\).
 
-### Animations
+### Video & Animation
 
+- [Runway](https://runwayml.com/): A host of tools, including many for transforming video clips: remove background, enhance audio, remove objects, add subtitles, text-to-color-grade, text-to-3D, bokeh simulation, and more.
+- [EBSyth](https://ebsynth.com/): Generate video and animations based on an input video + an input image. See FAQ page for tutorials. 
 - [Pollinations.ai](http://Pollinations.ai): An artist-run website offering AI tools, including some video creation tools, freaky dreamscapes, and [Stable Diffusion Animation](https://pollinations.ai/create/stablediffusion), which generate an animation that interpolates between two different images generated from text prompts
 - [Talking Face Generation](https://huggingface.co/spaces/CVPR/ml-talking-face): Create a video of an AI-generated face speaking whatever text you give it.
 
@@ -79,6 +86,7 @@ Beyond process or materials, what should your project be ******about?****** That
     - [Ando](https://www.figma.com/community/plugin/1145446664512862540): Generate designs and imagery from vector shapes, layouts, and text prompts.
 - Photoshop
     - [Stability](https://exchange.adobe.com/apps/cc/114117da/stable-diffusion) (paid): Powerful text-to-image generator with controls, in-painting, and more.
+    - [Alpaca](https://www.getalpaca.io/): Another interface for using Stability Difussion in Photoshop.
 - VS Code
     - [GitHub CoPilot](https://github.com/features/copilot): Generate working code in a variety of languages, based on prompts or snippets.
 
