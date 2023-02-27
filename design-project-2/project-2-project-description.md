@@ -65,6 +65,7 @@ Beyond process or materials, what should your project be ******about?****** That
     - [Stable Difussion Multi-Inpainting](https://huggingface.co/spaces/multimodalart/stable-diffusion-inpainting): Add generated imagery to an existing image.
     - [DALL-E Mini](https://huggingface.co/spaces/dalle-mini/dalle-mini) : A simplified version of the popular DALLL-E image generator.
 - [AutoDraw](https://www.autodraw.com/): Draw simple doodles and let Google's AI enhance it into recognizable illustrations.
+- [Scribble Diffusion](https://scribblediffusion.com/): Similar to the above doodle tool, but outputs photographic images instead of line art.
 - [Let's Enhance](https://letsenhance.io/): Artificially increase the resolution and quality of images \(you could use this in combination with the image generator's above, which typically create rather small iamges\).
 
 ### Video & Animation
