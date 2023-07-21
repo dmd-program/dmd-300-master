@@ -4,6 +4,15 @@ A production report is a comprehensive update about what progress has been made.
 
 **Each blog post should be a minimum of 500 words long, and include images or other media.**
 
+## Focus on AI
+
+At least one of your blog posts should include an in-depth report on your use of AI tools.
+
+- Explain what tools you used.
+- Describe or show your input data.
+- What challenges or surprises did you encounter?
+- What did it feel like? How do these tools change your professional expectations or capabilities? 
+
 ## Production blog
 
 All reports should be published on the production blog by the due dates indicated on the project schedule. The production blog can be hosted anywhere.
