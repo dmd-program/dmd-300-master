@@ -10,10 +10,9 @@ Please write the statement using proper grammar, sentence structure, and with co
 
 1. Include your name, project title, semester and year (IE – Fall 2022).
 2. Explain what the project is and how it works.
-   1. "This project is an online game for children that teaches players living in war-torn countries how to avoid landmines." 
+   - E.g. "This project is an online game for children that teaches players living in war-torn countries how to avoid landmines." 
 3. Describe the type of media used and why that choice is effective or interesting.
-4. Describe the design challenge that your work addresses \(the provocation, or existing problem you hope to tackle\)
-   1. Do not write about challenges _you had_ in producing the work.
+4. Describe the design challenge that your work addresses \(the provocation, or existing problem you hope to tackle\). Do not write about challenges _you personally had_ in producing the work.
 5. Describe the process or how you approached solving for the design challenge.
 6. Describe the impact the work might have, the context in which it sits, why it's interesting, etc.
 
@@ -48,9 +47,35 @@ The Work Statement is specifically about this project, but artist statements are
 ## Example of Student Work
 View a [sample work statement \(pdf\)](https://dmd-program.github.io/dmd-300-master/assets/sample-work-statment.pdf) from a previous student.
 
+## AI-Assisted Revision
+
+As you explore the use of AI in design, it's worth seeing how AI can help us with writing too. 
+
+Algorithms are not very interesting; they don't know what you know, and they don't care about anything. But they are really good at regurgitating the writing style of other people into a sort of average result. And you can iterate and guide an AI to give you more interesting results, possibly editing its suggestions into your own writing. This can be help align your writing with the conventions and language of a particular industry.
+
+For one draft of your Work Statement, you should use an AI assistant to revise the text or generate feedback. 
+
+Use one of the AI resources listed under the Text section of the [Resources page](/design-project-2/project-2-project-description.md).
+
+You can paste your entire statement into one of the tools, and say something like:
+
+- "Rewrite the following text in the style of a UX case study."
+- "Help me improve the following design statement, including grammar and clarity of ideas."
+
+Or you can start from scratch to see what it generates; this will produce something super generic and lacking important details about *your* work, but the language and structure may be useful reference:
+
+- "Write an artist statement for someone who makes digital photo-collages of body parts."
+
+
+
+
 ## Submission details:
 
-1. Upload the work statement as an MS Word Document to Canvas as indicated deadlines.
+-  Upload the work statement as an MS Word Document to Canvas as indicated deadlines.
+- For the AI-Assisted Draft:
+    - Identify which AI program you used
+    - Include your prompts
+    - Make it clear which writing is your own and which is computer-generated. \(That could mean color-coding text, or including multiple versions of your statement with clear labels.\)
 
 
 

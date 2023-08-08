@@ -8,7 +8,7 @@ For this project, you will produce a digital design work that critically engages
 
 ## Project Topic: A.I.
 
-Algorithms have shaped our relationship to culture ever since social media feeds and streaming recommendations became dominant venues for creative work. But so-called artificial intelligence tools like image and text generators are evolving at exponential rates and offer new possibilities to artists and designers, while simultaneously threatening entire creative fields with the possibility of automation. So let’s think about what this means for our future, and see what current AI tools can bring to our workflows.
+Algorithms have shaped our relationship to culture ever since social media feeds and streaming recommendations became dominant venues for creative work. But so-called artificial intelligence tools like image and text generators are evolving at [exponential rates](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/) and offer new possibilities to artists and designers, while simultaneously [threatening](https://www.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/) entire creative fields with the possibility of automation. So let’s think about what this means for our future, and see what current AI tools can bring to our workflows.
 
 ## Required Readings
 
@@ -27,7 +27,9 @@ After exploring hilarious AI-fails on her blog for many years, Janelle Shane exp
 
 [Access ebook through Penn State library](https://catalog.libraries.psu.edu/catalog/33839629)
 
-This book explores the state of AI-driven automation in knowledge industries like journalism, tech, business, and — yes, design. Roose is a New York Times contributor and co-host of the tech podcast Hard Fork. In **************Futureproof,************** he outlines nine rules for living and working in the “age of automation.” The fourth rule, “Leave Handprints” is one of the most applicable to artists and designers, but the other rules all offer useful approaches to maintaining a healthy mind and creative practice. So I’m also asking you to read the short appendix, where Roose shares actual  examples of how to apply his rules to everyday life. 
+This book explores the state of AI-driven automation in knowledge industries like journalism, tech, business, and — yes, design. Roose is a New York Times contributor and co-host of the tech podcast [Hard Fork](https://www.nytimes.com/column/hard-fork). He also made headlines in 2023 for [a conversation](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html) with Bing's AI chatbot, where the program called itself Sydney and proclaimed its love for Roose.
+
+In ***Futureproof***. Roose outlines nine rules for living and working in the “age of automation.” The fourth rule, “Leave Handprints” is one of the most applicable to artists and designers, but the other rules all offer useful approaches to maintaining a healthy mind and creative practice. So I’m also asking you to read the short appendix, where Roose shares actual examples of how to apply his rules to everyday life. 
 
 ## Instructions
 
@@ -43,7 +45,9 @@ These topics are not required; you can choose any subject for your project and s
 
 ## Resources
 
-*As of August 2023 \(New tools or updates may be available\)*
+🗓️ *As of August 2023 \(New tools or updates may be available\)*
+
+🚨 *Any text, images, or media you put into these tools will be used to train and improve AI programs. For that reason do not share overly private information or media, and if you have concerns, contact your instructor.*
 
 ### Text
 
@@ -54,6 +58,7 @@ These topics are not required; you can choose any subject for your project and s
 - [Chat GPT](https://openai.com/blog/chatgpt/): Fast and easy to use, can generate code; cannot browse the web to find latest information.
 - [Bing](https://www.bing.com): Runs a mix of GPT 3.5 and 4, including ability to search the web and "see" images to analyze them. A little more creative and weird than the other models, and therefore great for brainstorming ideas. 
 - [Bard](https://bard.google.com/): Google's AI chatbot can run code and "see" images to analyze them.
+- [Google Docs](https://support.google.com/docs/answer/13447609?hl=en): Currently available only as a beta-release, you can generate and edit text directly in Google Docs. To request access, sign up for Google Workspace Labs at the link above. 
 - [Claude](https://claude.ai/): Competitive with GPT-4 and notable for having an insanely large context window, meaning you can paste in entire books for it to transform, summarize, or interact with.
 - [Lex](https://lex.page/): An AI-assisted text editor, if you prefer that to a chat interface. Write a document and let the AI continue your ideas, generate text, or develop notes into full text.
 
@@ -72,17 +77,27 @@ Remember that you can follow-up your prompts with more specifics to "steer" the 
 
 **Premium Choice**: [Midjourney](https://www.midjourney.com/): A fantastic tool that is worth a month of subscription to try it out. Uses a simple interface via Discord, where you type commands to generate or modify images. Follow their [quick start guide](https://docs.midjourney.com/docs/quick-start) and read about the many [commands](https://docs.midjourney.com/docs/command-list) and [parameters](https://docs.midjourney.com/docs/parameter-list) available to customize your results. 
 
+
 **Free Recommendations:**
 
 - [Bing Image Creator](https://www.bing.com/images/create): Uses DALL-E model, and is pretty great and easy to use. 
 - [Playground](https://playgroundai.com): A powerful GUI for generating images with Stable Diffussion; 1000 free images and licensed for commercial use. 
 - [Adobe Firefly](https://firefly.adobe.com/): Notable for the fact that its AI model was trained exclusively on images Adobe owns \(through Adobe Stock\), so it is not exploiting artists by copying their style, if that's a concern for you. 
 
+**Example Prompts**
+- "A photograph of a man lounging under a tree on a summer afternoon, golden hour, cinematic bokeh, sepia colors."
+- "A cartoon illustration of watermelon hugging a tomato, vibrant colors and radiating lines of energy." 
+
+Use very descriptive language, references to specific art styles, camera terms, or art media. You can alter the prompt if the results aren't to your liking, and remember that Midjourney has very specific [parameters](https://docs.midjourney.com/docs/parameter-list) to help guide the resulting images. 
+
+Most of these tools will generate 4 images at once, and you can pick your favorite one to scale up to a higher resolution. 
+
 **Other Image Tools:**
 
 - [DALL-E 2](https://openai.com/dall-e-2/): Owned by OpenAi, who makes Chat-GPT, this tool offers a limited number of free images before you have to pay for them.
 - [Hugging Face](https://huggingface.co/spaces): A vast library of user-created tools built on popular machine-learning systems, including some visual interfaces for the open source Stable Diffusion.
 - [Spline Style Transfer](https://spline.design/ai-style-transfer): Spline is a cool web-based 3D modeling app, and while they're still working on a true "text-to-3D" model, you can use text prompts to generate images based on your 3D models, trying out new color or aesthetic ideas in an instant. 
+- [Icons8 Upscaler](https://icons8.com/upscaler): Most generative image tools create fairly small images, so this AI tool can be used to scale them up them to larger sizes.
 
 **Advanced Use of Stable Diffusion:** 
 
