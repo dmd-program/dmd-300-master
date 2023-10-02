@@ -95,6 +95,7 @@ Most of these tools will generate 4 images at once, and you can pick your favori
 **Other Image Tools:**
 
 - [DALL-E 2](https://openai.com/dall-e-2/): Owned by OpenAi, who makes Chat-GPT, this tool offers a limited number of free images before you have to pay for them.
+- [Vizcom](https://www.vizcom.ai/): Generate realistic imagery through a combination of sketching \(!\) and text prompts. Popular with industrial and product design. Looks 3D but I think it just outputs images. 
 - [Hugging Face](https://huggingface.co/spaces): A vast library of user-created tools built on popular machine-learning systems, including some visual interfaces for the open source Stable Diffusion.
 - [Spline Style Transfer](https://spline.design/ai-style-transfer): Spline is a cool web-based 3D modeling app, and while they're still working on a true "text-to-3D" model, you can use text prompts to generate images based on your 3D models, trying out new color or aesthetic ideas in an instant. 
 - [Icons8 Upscaler](https://icons8.com/upscaler): Most generative image tools create fairly small images, so this AI tool can be used to scale them up them to larger sizes.
@@ -114,6 +115,7 @@ As an open-source model, you can do an awful lot with [Stable Diffusion](https:/
 **More:**
 
 - [EBSyth](https://ebsynth.com/): Generate video and animations based on an input video + an input image. See FAQ page for tutorials. 
+- [Mubert](https://mubert.com/): Generate instrumental music tracks online or using a plugin for Premiere and After Effects. 
 - [Pollinations](https://replicate.com/pollinations): A collection of experimental AI tools with a free trial and then paid results; includes text-to-music and video generation, tools for animating still images, and more.
 - [ElevenLabs](https://beta.elevenlabs.io/): Generate realistic speech form text, including the ability to upload recordings to use as a basis for the synthetic voice.
 

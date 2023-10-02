@@ -76,6 +76,7 @@ Or you can start from scratch to see what it generates; this will produce someth
     - Identify which AI program you used
     - Include your prompts
     - Make it clear which writing is your own and which is computer-generated. \(That could mean color-coding text, or including multiple versions of your statement with clear labels.\)
+    - Include a brief reflection on the use of AI, such as describing its strengths and weaknesses. 
 
 
 
