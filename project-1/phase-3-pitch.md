@@ -6,9 +6,12 @@ Produce a short presentation that explains the project concept. Use presentation
    * If doing voice narration, you can choose one team member to narrative, or have different members contribute narration of different slides.
 2. **PDF export** of slides used for the video.
 
+The video should be fun and engaging! Imagine you are pitching this potential stakeholders or investors. Use bold imagery and visual design. Don't put looooooong passage of text on a slide an then read it to us. Keep it simple and concise. 
+
 ## Requirements 
 - Must include original images or sketches depicting how the final project might appear
 - Must include images of related creative work or designs that indicate your stylistic goals, competitors, or inspiration. 
+- Video should be 2-5 minutes long. 
 
 ## Resources
 
