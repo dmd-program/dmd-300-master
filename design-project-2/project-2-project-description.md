@@ -45,17 +45,17 @@ These topics are not required; you can choose any subject for your project and s
 
 ## Resources
 
-🗓️ *As of August 2023 \(New tools or updates may be available\)*
+🗓️ *As of January 2024 \(New tools or updates may be available\)*
 
-🚨 *Any text, images, or media you put into these tools will be used to train and improve AI programs. For that reason do not share overly private information or media, and if you have concerns, contact your instructor.*
+🚨 *Any text, images, or media you put into these tools will be used to train and improve AI programs. For that reason do not share overly private information or media; if you have concerns, contact your instructor.*
 
 ### Text
 
-**Premium Choice:** [Chat GPT-4](https://openai.com/blog/chatgpt/): A paid upgrade on the free model, and you can use plugins to let it browse the web, execute code, and interact with third party APIs. 
+**Premium Choice:** [ChatGPT-4](https://openai.com/blog/chatgpt/): A paid upgrade on the free model, and you can use plugins to let it browse the web, execute code, and interact with third party APIs. 
 
 **Free Recommendations:**
 
-- [Chat GPT](https://openai.com/blog/chatgpt/): Fast and easy to use, can generate code; cannot browse the web to find latest information.
+- [ChatGPT](https://openai.com/blog/chatgpt/): Fast and easy to use, can generate code; cannot browse the web to find latest information.
 - [Bing](https://www.bing.com): Runs a mix of GPT 3.5 and 4, including ability to search the web and "see" images to analyze them. A little more creative and weird than the other models, and therefore great for brainstorming ideas. 
 - [Bard](https://bard.google.com/): Google's AI chatbot can run code and "see" images to analyze them.
 - [Google Docs](https://support.google.com/docs/answer/13447609?hl=en): Currently available only as a beta-release, you can generate and edit text directly in Google Docs. To request access, sign up for Google Workspace Labs at the link above. 
@@ -71,6 +71,8 @@ These topics are not required; you can choose any subject for your project and s
 - "Help me write a comic about a conversation between a robot and a butterfly. Use script formatting, and include a visual description of each frame."
 
 Remember that you can follow-up your prompts with more specifics to "steer" the response in the direction you want. You might have to help the chatbot along a few times to produce the kind of results you're looking for. 
+
+In the discovery phase, you can also tell a Chatbot to ask *you* questions to provoke introspection, as Geoffrey Litt demonstrates in his blog post, [ChatGPT as Muse, not Oracle](https://www.geoffreylitt.com/2023/02/26/llm-as-muse-not-oracle). 
 
 
 ### Images
@@ -125,8 +127,9 @@ As an open-source model, you can do an awful lot with [Stable Diffusion](https:/
 - Figma Plugins
     - [Magician](https://www.figma.com/community/plugin/1151890004010191690): Generate icons, text copy, and images from text prompts.
     - [Ando](https://www.figma.com/community/plugin/1145446664512862540): Generate designs and imagery from vector shapes, layouts, and text prompts.
-- Photoshop
-    - [Generative Fill](https://www.adobe.com/products/photoshop/generative-fill.html): Official Adobe tool for generating and extending images in Photoshop, based on text prompts. To use, install the Beta version of Photoshop via the Creative Cloud app. 
+- Adobe apps
+    - Photoshop's [Generative Fill](https://www.adobe.com/products/photoshop/generative-fill.html): Official Adobe tool for generating and extending images in Photoshop, based on text prompts. 
+    - Illustrator's [text-to-vector generation](https://www.adobe.com/products/illustrator/text-to-vector-graphic.html).
 - VS Code
     - [GitHub CoPilot](https://github.com/features/copilot): Generate working code in a variety of languages, based on prompts or snippets \(paid\).
 

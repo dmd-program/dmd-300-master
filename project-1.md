@@ -59,19 +59,31 @@ Please read through [project categories](/project-categories.md) to learn more a
 
 ## Team Dynamics
 
-Though working on a design team as part of a class project can not fully mimic real-world project teams you will encounter or already have encountered, it should suffice for helping you understand the general tactics and etiquette. Finding a team that meshes immediately and is good at resolving internal conflict makes for a very productive and gratifying project experience. Unfortunately, when this doesn't happen, team dynamics can be counterproductive. If you run into any issues with your team members that cannot be resolved, please communicate with them with your instructor so they may step in and help mediate the situation.
+Collaborating with a team is an essential skill for designers to practice. Synthesizing various people's ideas, articulating your intentions and critiques, and participating in a shared workflow are all invaluable to professional work.
 
-## Rubric
+Finding a team that meshes immediately and is good at resolving internal conflict makes for a very productive and gratifying project experience. Unfortunately, when this doesn't happen, team dynamics can be counterproductive. If you run into any issues with your team members that cannot be resolved, please communicate with them with your instructor so they may step in and help mediate the situation.
 
-**This final project is graded as a team.** All members will receive the same grade for the final deliverable. Each person's weekly activity reports are graded individually.
+This project will move fast \(it's a sprint remember?\), so try not to spend too long discussing ideas and struggling to make everyone happy. Just find an idea and run with it, looking for opportunities to do the type of work you're interested in and thinking about how you can help your teammates.
+
+## Assessment
+
+This project is assessed as a team, meaning that **each person in a group will receive the same grade — except for a 10% Peer Grade**, which will be assigned by your group mates and moderated by your instructor. 
+
+A rubric for the Peer Grade will be provided, but essentially this is a way to evaluate if everyone in the group contributed to the best of their ability. If a student has clearly not participated equally and not spent the requisite amount of time on the project, the instructor may reduce your overall grade below that of your teammates. 
+
+Each person's weekly activity reports are graded individually.
 
 All project deliverables must be met for the project to be graded. A non-submission or non-completion for any project phase is considered an incomplete project.
 
-1. Produced and submitted project deliverables according to requirements: 40%
-2. Project outcomes: 
-   * Concept 20%
-   * Craft 20%
-   * Design process 20%
+### Rubric
+
+More details available in Canvas.
+
+* All deliverables and steps completed to appropriate degree: 30%
+* Project concept: 20%
+* Technical craft and aesthetics: 20%
+* Research and design process: 20%
+* Peer grade: 10%
 
 
 
