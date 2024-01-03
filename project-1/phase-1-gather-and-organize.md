@@ -1,22 +1,36 @@
 # Phase 1: Gather and organize
 
-Meet with your team and begin to establish meeting times and meeting agendas. 
+Meet with your team and begin to establish meeting times and meeting agendas.
 
-Synchronous meetings can be very productive and are recommended for weekly check-ins with your group, but you can get started discussing things over a chat tool or email.
+Synchronous meetings can be very productive and are recommended for weekly check-ins with your group, but you can communicate with whatever tools use like, such as email, Discord, Whatsapp, Google Chat, etc.
 
-## Agenda items for design meetings
+## Create a Brainstorm document
 
-The following are some recommended items to consider for meeting agendas. Ultimately, you are responsible for crafting meeting agendas:
+Each group should prepare a brainstorm document using one of the following templates. This will help you share reactions to the prompt and to articulate your interests, goals, and strengths. 
 
-1. Introductions or icebreaker
-2. Read through the project prompt and forthcoming steps, look at provided resources, and discuss any questions about the project that the team may have \(Please send questions to your instructor if you are still unclear after this discussion\).
-3. What are your immediate thoughts about the prompt? Share some creative work or experiences that it reminds you of.
-4. Decide on team collaboration tools. A more comprehensive list is located on the [collaboration tools page](/collaboration-tools.md).
-5. Identify meeting times.
-6. Discuss types of digital media workflows, tools, and formats that are of interest to the group.
-7. Brainstorm specific design challenges (problems to solve) or subjects related to the prompt. It may be beneficial to bring some ideas to the initial meeting, or to convene a second meeting later to spend more time discussing. The project's focus word is meant to give you a starting point, and guide any design thinking activities, similar to the ones used in the Double Diamond process in DMD100. You can [refer back to DMD100](https://dmd-program.gitbooks.io/dmd-100-sp19/content/) at any time if you do not recall the activities that were used. 
-8. Decide whether to assign team member roles. If roles are desired, what are they and who are they assigned to?
-9. Articulate some goals for the project and yourselves \(even if the exact idea for the project has yet to be determined)
+You can do this with either the visual whiteboard app FigJam (recommended) or a traditional text document. 
+
+### FigJam (recommended)
+
+For this option, you will need a Figma account \(apply for a free [education account](https://www.figma.com/education/)\).
+
+View the [FigJam template file](https://www.figma.com/file/W5D1eDy4z4QJsIVHap8dfn/Group-Project-Brainstorm?type=whiteboard&node-id=0%3A1&t=bDFMwS76BJMRP5Nh-1) \(external link\) and duplicate it to create your own copy \(click the little 🔽 arrow next to the filename at top center, or right-click the file in your dashboard\).
+
+Then invite your teammates to the file or [send them a share link](https://help.figma.com/hc/en-us/articles/1500007609322-Guide-to-sharing-and-permissions) with editing enabled. 
+
+This file uses the simplified [FigJam](https://help.figma.com/hc/en-us/articles/15300412458647) app, which is distinct from [Figma design files](https://help.figma.com/hc/en-us/articles/15297425105303). As you continue the project, you may want to create a Figma design file and collaborate with your peers on visual designs, interactive prototypes, and more. Within a single file, you can create multiple [pages](https://help.figma.com/hc/en-us/articles/360038511293-Create-and-manage-pages) to organize your work. Groups have had success with this workflow in the past because it lets you keep everything in one place and easily comment and collaborate. 
+
+Read more about [Figma's meeting tools](https://help.figma.com/hc/en-us/sections/1500000700042-Meeting-tools), including synchronous cursor chat, voting, timers, and asynchronous comments.
+
+### Text document (alternative)
+
+If you would prefer not to use Figma...
+
+Download the [Word template file](/assets/Project-one-brainstorm.docx) \(right-click and save as\) and edit it as desired. You can paste the text into another text app like Google Docs or Notion, or edit the Word doc in the cloud through your PSU OneDrive account. Just make sure everyone can edit the file. 
+
+## Submission
+
+You will submit a file or share link to your instructor, but feel free to continue using this document throughout the project or to expand it as desired.
 
 
 

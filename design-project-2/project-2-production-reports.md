@@ -2,7 +2,29 @@
 
 A production report is a comprehensive update about what progress has been made. A report can consist of any visual or text description and may include screenshot images, photographs of prototypes, video of working functionality, code snippets, production artwork, concept maps, research findings, work inspiration, storyboards and scripts, etc. Include hyperlinks to your research sources, tutorials you followed, or other influences on your work!
 
-**Each blog post should be a minimum of 500 words long, and include images or other media.**
+
+
+## Structure
+
+**All blog posts should be a minimum of 500 words long, and include images or other media.**
+
+Each blog post should include the following sections:
+
+### Week at a glance
+
+1–2 sentences describing what you accomplished and what stage of the design process you are in \(from your pitch timeline\).
+
+### Reply to feedback
+
+1–2 paragraphs replying to feedback you received from your instructor or peers. Your instructor will typically post specific questions or recommendations in your Canvas assessment — this is your chance to explain how you factored that into your work, or why you chose to ignore it.
+
+### Free writing
+
+Spend the majority of your post describing your process, struggles, or ideas related to the project. Make this writing professional and worth reading. Good things to write about include:
+    - Behind the scenes process explanations; write your own little tutorials! 
+    - Research into related artwork, design, history, or theory. 
+    - Show iterations of work: failed experiments, evolving designs, and so on — not just the pretty picture, but all the middling ones along the way. 
+    
 
 ## Focus on AI
 
