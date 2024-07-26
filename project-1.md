@@ -8,6 +8,18 @@ Avoid basing your project around existing intellectual properties \(movies, comi
 
 Please read through [project categories](/project-categories.md) to learn more about the types of projects possible to produce and their production needs. While the media and form of your project is up to you, the following focus word should be used as a jumping off point for your project's concept.
 
+## Objectives
+
+**The purpose of this project is to help you:**
+
+* Gain experience working in a design team, including use of collaboration software and timely communication
+* Practice developing a design process
+* Practice evaluating and reflecting on the effectiveness of a design process
+* Select and test design methods, techniques, and tools to produce digitally designed, critically engaged, and systemically considered creative explorations and outcomes 
+* Produce a detailed project document
+* Practice publishing skills by keeping a [team project blog](http://sites.psu.edu/)
+* Strengthen connections with peers for long term networking and support
+
 ### The conceptual focus word for this project is: “Inclusive”
 
 > Inclusive Design is a methodology, born out of digital environments, that enables and draws on the full range of human diversity. Most importantly, this means including and learning from people with a range of perspectives.
@@ -46,16 +58,6 @@ Please read through [project categories](/project-categories.md) to learn more a
 * Phase 4: Sprint! \(three weeks\)
 * Phase 5: Document \(concludes the Sprint\)
 
-## Objectives
-
-**The purpose of this project is to help you:**
-
-* Gain experience working in a design team
-* Practice developing a design process
-* Practice evaluating and reflecting on the effectiveness of a design process
-* Select and test design methods, techniques, and tools to produce digitally designed, critically engaged, and systemically considered creative explorations and outcomes 
-* Produce a detailed project document
-* Practice publishing skills by keeping a [team project blog](http://sites.psu.edu/)
 
 ## Team Dynamics
 
@@ -63,13 +65,13 @@ Collaborating with a team is an essential skill for designers to practice. Synth
 
 Finding a team that meshes immediately and is good at resolving internal conflict makes for a very productive and gratifying project experience. Unfortunately, when this doesn't happen, team dynamics can be counterproductive. If you run into any issues with your team members that cannot be resolved, please communicate with them with your instructor so they may step in and help mediate the situation.
 
-This project will move fast \(it's a sprint remember?\), so try not to spend too long discussing ideas and struggling to make everyone happy. Just find an idea and run with it, looking for opportunities to do the type of work you're interested in and thinking about how you can help your teammates.
+This project will move fast \(it's a *sprint*, right?\), so try not to spend too long discussing ideas and struggling to make everyone happy. Just find an idea and run with it. Think about how you can help your teammates, and look for opportunities to utilize your strengths and interests.
 
 ## Assessment
 
-This project is assessed as a team, meaning that **each person in a group will receive the same grade — except for a 10% Peer Grade**, which will be assigned by your group mates and moderated by your instructor. 
+This project is assessed as a team, meaning that **each person in a group will receive the same grade** — except for a **10% Participation grade**, which will be determined by input from your partners, your own self-grade, and your instructor.
 
-A rubric for the Peer Grade will be provided, but essentially this is a way to evaluate if everyone in the group contributed to the best of their ability. If a student has clearly not participated equally and not spent the requisite amount of time on the project, the instructor may reduce your overall grade below that of your teammates. 
+If a student has clearly not participated equally and not spent the requisite amount of time on the project, the instructor may further reduce your overall grade below that of your teammates. 
 
 Each person's weekly activity reports are graded individually.
 
@@ -83,7 +85,7 @@ More details available in Canvas.
 * Project concept: 20%
 * Technical craft and aesthetics: 20%
 * Research and design process: 20%
-* Peer grade: 10%
+* Participation grade: 10%
 
 
 

@@ -6,12 +6,29 @@ Produce a short presentation that explains the project concept. Use presentation
    * If doing voice narration, you can choose one team member to narrative, or have different members contribute narration of different slides.
 2. **PDF export** of slides used for the video.
 
-The video should be fun and engaging! Imagine you are pitching this potential stakeholders or investors. Use bold imagery and visual design. Don't put looooooong passage of text on a slide an then read it to us. Keep it simple and concise. 
+The video should be fun and engaging! Imagine you are pitching this potential stakeholders or investors. Use bold imagery and visual design. Don't put long passages of text on a slide an then read it to us. Keep it simple and conversational. 
+
+Here's a [gallery of real pitch decks](https://visme.co/blog/best-pitch-decks/) from startups that you can look at for inspiration. Note that these are for businesses, and therefore focus on markets and profit more than is appropriate here. **This is not a business class!** You don't need a strategy to make money, and for some projects you might imagine you have an unlimited budget and develop a speculative design that never leaves the imagination stage. For other projects, you might create a real website, ad campaign, or comic book. Focus on applying [design thinking](/design-process-and-methods.md) to your problem and demonstrating creative problem-solving, attention to craft and detail, and sophisticated visual design. 
+
+## Required Slides
+
+Include slides dedicated to the following topics, though you don't have to use these exact titles and you can put them in any order:
+
+- **Problem:** How things are now; establish the context for why your idea is needed or interesting. 
+- **Solution:** Introduce your core idea, using additional slides to flesh it out. Include images or sketches depicting how the final project might appear.
+- **Inspiration/Competitors:** Show images of related work guiding your aesthetic style, or similar products you can study for reference.
+- **User/Audience report:** Describe the intended audience for your project, such as:
+  - [Demographic data​](https://www.ala.org/magirt/publicationsab/demdata)
+  - [Digital fluency](https://www.digitalfluency.guide/digital-fluency/introduction-to-digital-fluency)
+  - Qualitative, interviews, or anecdotal info ​
+  - Challenges or obstacles ​
+  - Cultural background or context ​
+- **[Empathy Map](https://www.nngroup.com/articles/empathy-mapping/)**: A concise picture of the audience above. This diagram comes from UX research, but can be applied to other types of design too. 
+  
 
 ## Requirements 
-- Must include original images or sketches depicting how the final project might appear
-- Must include images of related creative work or designs that indicate your stylistic goals, competitors, or inspiration. 
-- Video should be 2-5 minutes long. 
+- Must include topics above, including images as described.
+- Video should be 3-5 minutes long. 
 
 ## Resources
 
