@@ -2,13 +2,26 @@
 
 A production report is a comprehensive update about what progress has been made. A report can consist of any visual or text description and may include screenshot images, photographs of prototypes, video of working functionality, code snippets, production artwork, concept maps, research findings, work inspiration, storyboards and scripts, etc. Include hyperlinks to your research sources, tutorials you followed, or other influences on your work!
 
+## Initial Blog Post
+
+Your first blog post should be a reflection on the required reading and video playlist listed on the [project overview](/design-project-2/project-2-project-description.md). 
+
+- Include 2+ quotes from the Cory Doctorow article and 2+ quotes from the Runway video series with your own commentary and analysis.
+- Include a link to one additional article, artwork, social media post, or other reference that relates to the subject of generative AI.
+
+Write in a professional format appropriate for a college-level class. You can take this response in whatever direction you like, but you might consider:
+
+- What are the biggest potential rewards and risks that you see in this technology? 
+- What examples or ideas did you find compelling in the assigned reading/videos? 
+- What uses of generative AI stuck out to you prior to this class?
+- Using [ChatGPT as a muse](https://www.geoffreylitt.com/2023/02/26/llm-as-muse-not-oracle) to help you discover your feelings about this stuff by asking you provocative questions. 
 
 
 ## Structure
 
 **All blog posts should be a minimum of 500 words long, and include images or other media.**
 
-Each blog post should include the following sections:
+After the initial blog post \(above\) each weekly post should include the following sections:
 
 ### Week at a glance
 
@@ -26,14 +39,6 @@ Spend the majority of your post describing your process, struggles, or ideas rel
     - Show iterations of work: failed experiments, evolving designs, and so on — not just the pretty picture, but all the middling ones along the way. 
     
 
-## Focus on AI
-
-At least one of your blog posts should include an in-depth report on your use of AI tools.
-
-- Explain what tools you used.
-- Describe or show your input data.
-- What challenges or surprises did you encounter?
-- What did it feel like? How do these tools change your professional expectations or capabilities? 
 
 ## Production blog
 
