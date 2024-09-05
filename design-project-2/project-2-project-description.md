@@ -26,6 +26,8 @@ These optimistic videos were produced by the AI video company [Runway](https://r
 
 2️⃣ [Why A.I. isn't going to make art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art) by Ted Chiang. \(New Yorker, 2024\)
 
+[Alternative PDF access](/assets/Chiang-AI-NewYorker.pdf)\(right-click and save as\)
+
 This is a more skeptical take on AI art from a renowned sci-fi author. Chiang compares it to historical technologies like photography and drills into the ideas of intention, averages, and authorship. 
 
 
