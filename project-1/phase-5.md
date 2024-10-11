@@ -31,7 +31,7 @@ Each team should produce a single Project Document.
    * Analyze and deconstruct central issues of your project using [form and context analysis](https://www.core77.com/posts/69273/Book-Review-Notes-on-the-Synthesis-of-Form). I.e. How successfully does your solution solve the problem?
    * [Identify forces that impact form](https://vimeo.com/10875362)
    * Are there any ethical considerations?
-   * Include figures and diagrams of conceptual relationships
+   * Include at least one figure or diagram related to your project, illustrating conceptual relationship, data, or findings. (E.g. venn diagrams, flowcharts, maps, bespoke data visualization, etc.) Visuals like this communicate your ideas in a different way than writing and help make these docuemnts fun! Browse chart and diagram types [here](https://visualframeworks.com/) or [here](https://datavizproject.com/).
    * Describe media used in digital production. For example, print, web, info-graphics, game/interactive, animation, video/film, audio/sound, physical installation, etc.
 7. **Lessons learned**
    * Assess how well your group's chosen design process worked (e.g. double diamond). How might it be improved upon in the future? 

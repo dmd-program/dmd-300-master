@@ -8,13 +8,13 @@ For this project, you will produce a digital design work that critically engages
 
 ## Project Topic: A.I.
 
-Algorithms have shaped our relationship to culture ever since social media feeds and streaming recommendations became dominant venues for creative work. But so-called artificial intelligence tools like image and text generators are evolving at [exponential rates](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/) and offer new possibilities to artists and designers, while simultaneously [threatening](https://www.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/) entire creative fields with the possibility of automation. So let’s think about what this means for our future, and see what current AI tools can bring to our workflows.
+Algorithms have shaped our relationship to culture ever since social media feeds and streaming recommendations became dominant venues for creative work. But so-called artificial intelligence tools like image and text generators are evolving at [exponential rates](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/) and offer new possibilities to artists and designers, while simultaneously [threatening](https://www.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/) entire creative fields with the possibility of automation. So let’s think about what this means for our future, and see what benefits current AI tools can bring to our workflows.
 
 If you're not super familiar with generative AI tools, explore the links and examples further down this page before completing the reading and videos below.
 
 ## Required Reading/Watching
 
-You will be asked to respond to these in an upcoming blog post:
+You will be asked to respond to these in an upcoming blog post. 
 
 1️⃣ [Creative Dialogue](https://youtube.com/playlist?list=PLj598ZXODDO_6zEf_n-vicul4-SjQnL-W&feature=shared) series by Runway \(2023–2024\)
 
@@ -24,9 +24,11 @@ You will be asked to respond to these in an upcoming blog post:
 
 These optimistic videos were produced by the AI video company [Runway](https://runwayml.com/), and include some cool examples of generative image and video production. Each video features a great conversation between two artists who have worked with AI and other forms of generative technology, offering some inspiring ideas on the creative process and the role of automation. 
 
-2️⃣ [AI "Art" and Uncanniness ](https://doctorow.medium.com/https-pluralistic-net-2024-05-13-spooky-action-at-a-close-up-invisible-hand-5c873636eb47) by Cory Doctorow. \(Medium, 2024\)
+2️⃣ [Why A.I. isn't going to make art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art) by Ted Chiang. \(New Yorker, 2024\)
 
-This is a more skeptical take on AI art, that still uses historical examples to leave open the possiblity for noble and worthwhile uses of the technology. Doctorow is a legal scholar of the [copyleft movement](https://creativecommons.org/) and a science fiction author.
+[Alternative PDF access](/assets/Chiang-AI-NewYorker.pdf)\(right-click and save as\)
+
+This is a more skeptical take on AI art from a renowned sci-fi author. Chiang compares it to historical technologies like photography and drills into the ideas of intention, averages, and authorship. 
 
 
 
