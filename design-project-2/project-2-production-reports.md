@@ -6,7 +6,7 @@ A production report is a comprehensive update about what progress has been made.
 
 Your first blog post should be a reflection on the required reading and video playlist listed on the [project overview](/design-project-2/project-2-project-description.md). 
 
-- Include 2+ quotes from the Cory Doctorow article and 2+ quotes from the Runway video series with your own commentary and analysis.
+- Include 2+ quotes from the assigned reading material with your own commentary and analysis.
 - Include a link to one additional article, artwork, social media post, or other reference that relates to the subject of generative AI.
 
 Write in a professional format appropriate for a college-level class. You can take this response in whatever direction you like, but you might consider:
