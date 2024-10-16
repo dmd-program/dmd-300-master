@@ -22,13 +22,16 @@ Each team should produce a single Project Document.
       * Anticipated outcomes
       * Activities or work completed, and how they contributed to the project's development.
       * Actual outcomes
+   * No *not* simply list class assignments or a checklist of deliverables. Describe how you acted out the phases of your design process through decision making, testing, and creative work. Provide context and rationales for what you did. 
 5. **Final Product**
    * Depending on the nature of your project, this could be:
      * Images of your final product or design
      * Link to video, website, etc. 
      * Additional files such as a ZIP archive, executable app, etc. 
 6. **Final Outcomes**
-   * Analyze and deconstruct central issues of your project using [form and context analysis](https://www.core77.com/posts/69273/Book-Review-Notes-on-the-Synthesis-of-Form). I.e. How successfully does your solution solve the problem?
+   * Analyze and deconstruct central issues of your project using [form and context analysis](https://www.core77.com/posts/69273/Book-Review-Notes-on-the-Synthesis-of-Form). 
+      * Why does your project look the way it does? What rationales affected its formal appearance?
+      * How successfully does your solution solve the problem? How do you know?
    * [Identify forces that impact form](https://vimeo.com/10875362)
    * Are there any ethical considerations?
    * Include at least one figure or diagram related to your project, illustrating conceptual relationship, data, or findings. (E.g. venn diagrams, flowcharts, maps, bespoke data visualization, etc.) Visuals like this communicate your ideas in a different way than writing and help make these docuemnts fun! Browse chart and diagram types [here](https://visualframeworks.com/) or [here](https://datavizproject.com/).
