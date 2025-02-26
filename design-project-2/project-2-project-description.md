@@ -48,20 +48,21 @@ These topics are not required; you can choose any subject for your project and s
 
 ## Resources
 
-🗓️ *As of August 2024 \(New tools or updates may be available\)*
+🗓️ *As of March 2025 \(New tools or updates may be available\)*
 
 Any text, images, or media you put into these tools may be used to train and improve AI programs. For that reason do not share overly private information or media; if you have concerns, contact your instructor. 
 
 ### Text
 
-**Premium Choice:** [ChatGPT-4](https://openai.com/blog/chatgpt/): A paid upgrade on the free model, and you can use plugins to let it browse the web, execute code, and interact with third party APIs. 
+**Premium Choice \(tie\):** 
 
-**Free Recommendations:**
+- [Claude](https://claude.ai/): Free or monthly fee for more usage and smarter responses. Does not use input data for training, and is often described as more creative than GPT but is very comparable. Can generate code "artifacts" \(websites or apps\) in the chat.
+- [ChatGPT](https://openai.com/blog/chatgpt/): Free or monthly fee for more usage and smarter responses. Users must opt-out of having their data used for training. Can browse the web, generate images, and connect with many third-party apps.
 
-- [ChatGPT](https://openai.com/blog/chatgpt/): Fast and easy to use, can generate code; cannot browse the web to find latest information.
-- [Claude](https://claude.ai/): Competitive with GPT-4 and notable for having an insanely large context window, meaning you can paste in entire books for it to transform, summarize, or interact with. Maybe a bit more creative and thoughtful than ChatGPT, can generate but not run code, and a beautiful interface!
-- [Bard](https://bard.google.com/): Google's AI chatbot can run code and "see" images to analyze them.
-- [Google Docs](https://support.google.com/docs/answer/13951448?hl=en): You can generate and edit text directly in Google Docs. To request access, sign up for Google Workspace Labs at the link above. 
+**Other Recommendations:**
+
+- [Gemini](https://gemini.google.com/app): Google's AI chatbot can run code and "see" images to analyze them.
+- [Google Docs](https://support.google.com/docs/answer/13951448?hl=en): You can generate and rewrite text directly in Google Docs.
 - [Lex](https://lex.page/): An AI-assisted text editor, if you prefer that to a chat interface. Write a document and let the AI continue your ideas, generate text, or develop notes into full text.
 
 **Example propmts**:
@@ -79,7 +80,7 @@ In the discovery phase, you can also tell a Chatbot to ask *you* questions to pr
 
 ### Images
 
-**Premium Choice**: [Midjourney](https://www.midjourney.com/): A fantastic tool that is worth a month of subscription to try it out. Uses a simple interface via Discord, where you type commands to generate or modify images. Follow their [quick start guide](https://docs.midjourney.com/docs/quick-start) and read about the many [commands](https://docs.midjourney.com/docs/command-list) and [parameters](https://docs.midjourney.com/docs/parameter-list) available to customize your results. 
+**Premium Choice**: [Midjourney](https://www.midjourney.com/): A fantastic tool that is worth a month of subscription to try it out. You can generate images in Discord or through their website. Follow their [quick start guide](https://docs.midjourney.com/docs/quick-start) and read about the many [commands](https://docs.midjourney.com/docs/command-list) and [parameters](https://docs.midjourney.com/docs/parameter-list) available to customize your results. 
 
 
 **Free Recommendations:**
@@ -130,7 +131,7 @@ As an open-source model, you can do an awful lot with [Stable Diffusion](https:/
 - [ElevenLabs](https://beta.elevenlabs.io/): Generate realistic speech form text, including the ability to upload recordings to use as a basis for the synthetic voice.
 
 
-### Pro Software
+### Pro Design Software
 
 - Figma 
     - [Official AI tools](https://www.figma.com/ai/) — Generate stock assets, ideate in FigJam, create layouts, and more. 
@@ -140,9 +141,24 @@ As an open-source model, you can do an awful lot with [Stable Diffusion](https:/
     - Photoshop's [Generative Fill](https://www.adobe.com/products/photoshop/generative-fill.html): Official Adobe tool for generating and extending images in Photoshop, based on text prompts. 
     - Illustrator's [text-to-vector generation](https://www.adobe.com/products/illustrator/text-to-vector-graphic.html).
     - Premiere's [auto-transcription and text-based editing tools](https://www.adobe.com/products/premiere/ai-video-editing.html), and upcoming generative video tools. 
-- VS Code
-    - [GitHub CoPilot](https://github.com/features/copilot): Generate working code in a variety of languages, based on prompts or snippets \(paid\).
 
+## Apps and UX
+
+- [Relume](https://www.relume.io/): Input a text prompt and generate sitemaps, wireframes, and style guides.
+- Text-to-app tools: generate sites or web apps from text prompts! 
+  - [Lovable](https://lovable.dev/)
+  - [Replit](https://replit.com/ai)
+  - [Bolt](https://bolt.new/)
+- IDEs \(will require at least some knowledge of coding compared to above\)
+  - [Cursor](https://www.cursor.com/): IDE with built-in AI assistant to let you talk through your work and help you code. 
+  - [VS Code with CoPilot](https://code.visualstudio.com/docs/copilot/overview): Enable AI code generation within the popular VS Code app. 
+- Chatbots: Claude, ChatGPT, and other chatbots listed above can help you create software or websites too. You'll just have to copy/paste the generated code into local files to run it. 
+
+### Example Prompts:
+
+- "Here's the HTML for my website. Write some Javascript that will toggle the visibility of the `<article>` when users press the `<button>`
+- "I want to make an app that can generate cookie recipes based on user inputs from a range-slider and text input. What tools might I use to do this and how much do they cost?"
+- "Why isn't this code working? It' supposed to..."
 
 ---
 
