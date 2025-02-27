@@ -58,8 +58,8 @@ See syllabus for your instructor’s policy on the use of generative AI.
 
 ### Requirements
 
-- 1000–1500 words
-- Bibliography of 3 or more professional sources (Chicago, APA, or MLA format)
+- 800–1200 words
+- Bibliography including 3 or more professional sources (Chicago, APA, or MLA format)
 - [Parenthetical](https://www.scribbr.com/citing-sources/parenthetical-citation/) or [footnote](https://www.scribbr.com/chicago-style/footnotes/) citations in the body of your essay to support facts and cite quotes.
 
 📥 **Submission:** DOC or DOCX file 
