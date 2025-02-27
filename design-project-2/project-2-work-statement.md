@@ -61,14 +61,14 @@ Use one of the AI resources listed under the Text section of the [Resources page
 
 You can paste your entire statement into one of the tools, and say something like:
 
+- "Give me feedback on this design statement, considering writing style, clarity of ideas, and professional context."
 - "Rewrite the following text in the style of a UX case study."
-- "Help me improve the following design statement, including grammar and clarity of ideas."
 
 Or you can start from scratch to see what it generates; this will produce something super generic and lacking important details about *your* work, but the language and structure may be useful reference:
 
 - "Write an artist statement for someone who makes digital photo-collages of body parts."
 
-
+👉 **Remember:** You are the primary author! Your voice and ideas are paramount, and the AI is here as your editor. You shouldn't submit the AI-generated text without editing it somewhat yourself, or integrating its suggestions into your original draft. 
 
 
 ## Submission details:
@@ -77,8 +77,7 @@ Or you can start from scratch to see what it generates; this will produce someth
 - For the AI-Assisted Draft:
     - Identify which AI program you used
     - Include your prompts
-    - Make it clear which writing is your own and which is computer-generated. \(That could mean color-coding text, or including multiple versions of your statement with clear labels.\)
-    - Include a brief reflection on the use of AI, such as describing its strengths and weaknesses. 
+    - Include a brief reflection on the use of AI, such as describing its strengths and weaknesses, or what percentage of the writing is yours vs. the AI's. 
 
 
 
