@@ -7,7 +7,7 @@ As the end of Project 2 approaches, it will be useful to get feedback from a fre
 Try to find someone with relevant expertise, such as:
 
 - A professional designer, artist, or media professional
-- A subject-matter expert \(e.g. you're making a website about sustainability; you might interview someone working in that field even if they're not a designer\)
+- A subject-matter expert \(e.g. if you're making a website about sustainability, you might interview someone working in that field even if they're not a designer\)
 - A student from another class 
 - Another faculty member at the university \(here's a list of [primary DMD faculty](https://dmd.psu.edu/about/)\)
 
@@ -20,7 +20,7 @@ People are generally glad to receive your interest and respect, so sending a "co
 
 Cultivating a network of professional contacts is invaluable for professional development, and getting to know people online or IRL can contextualize your work in a community. Be courteous in all communications with your interview subject. Give them adequate time to reply and review your work.
 
-If you can't someone like the examples suggested above, you may interview a friend or family member but please reach out to someone else first. 
+If you can't someone like the examples suggested above, you may interview a friend or family member, but please reach out to someone else first! 
 
 Meet with your subject in person or with Zoom, Teams, Google Meet, or other synchronous video app. \(If this is not feasible, please contact your instructor.\)
 
@@ -58,7 +58,7 @@ Refer to your questions but feel free to talk about other topics as well. Have a
 Send a thank you message within a few days of conducting the interview.
 
 
-### Findings 
+### Results
 
 Take notes during your interview, and summarize your conversation or findings to share with your instructor. This can be specific answers to your prepared questions and/or things that come up in conversation. 
 
