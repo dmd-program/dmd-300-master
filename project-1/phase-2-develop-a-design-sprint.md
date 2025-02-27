@@ -2,7 +2,11 @@
 
 ## What's a Design Sprint?
 
-Developed by GV \(Google Ventures, a subsidiary of Alphabet\), a design sprint is a specific format to develop solutions to a design problem. Read their [explanation of the process](https://www.thesprintbook.com/how) or watch this [90 second video explainer](https://www.youtube.com/watch?v=K2vSQPh6MCE). 
+Developed by GV \(Google Ventures, a subsidiary of Alphabet\), a design sprint is a specific format to quickly develop solutions to a design problem. Check out the following resources that explain more about design sprints:
+
+- Read their [explanation of the process](https://www.thesprintbook.com/how)
+- Learn [how to run a design sprint](https://www.figma.com/blog/how-to-run-a-design-sprint/) from the Figma blog.
+- Watch a [90 second video explainer](https://www.youtube.com/watch?v=K2vSQPh6MCE). 
 
 The GV Design Sprint is supposed to be an accelerated design process that packs brainstorming, prototyping, and user testing into five days. We won't follow their methods exactly, but the links above may help guide you as you design a process that works for your group and schedule.
 
