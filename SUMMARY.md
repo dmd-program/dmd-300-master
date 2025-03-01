@@ -20,6 +20,7 @@
     * [Concept Pitch](design-project-2/project-2-concept-pitch.md)
     * [Work Statement](design-project-2/project-2-work-statement.md)
     * [Production Reports](design-project-2/project-2-production-reports.md)
+    * [Interview](design-project-2/project-2-interview.md)
     * [Documentation](design-project-2/project-2-documentation.md)
     * [Project Files](design-project-2/project-2-project-files.md)
   * [Writing Project](writing-project.md)
